@@ -1,689 +1,0 @@
-authors,citations,documentType,publication,title,type,year,h-index,i10-index,total citations,department,total citations 
-FK Alarfaj,6,PDF,Archives of Computational Â,Recent advances in machine learning-based models for prediction of antiviral peptides,ARTICLE,2023.0,11.0,13.0,477.0,Manegement Information Systems,
-FK Alarfaj,118,PDF,IEEE Â,Credit card fraud detection using state-of-the-art machine learning and deep learning algorithms,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,57,,Artificial intelligence in Â,cACP-DeepGram: classification of anticancer peptides via deep neural network and skip-gram-based word embedding model,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,27,PDF,Electronics,XAI framework for cardiovascular disease prediction using classification techniques,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,21,PDF,Future Internet,CCrFS: combine correlation features selection for detecting phishing websites using machine learning,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,10,PDF,Applied Sciences,Enhancing the performance of SQL injection attack detection through probabilistic neural networks,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,20,PDF,Molecules,Theoretical Analysis on Absorption of Carbon Dioxide (CO2) into Solutions of Phenyl Glycidyl Ether (PGE) Using Nonlinear Autoregressive Exogenous NeuralÂ Â,ARTICLE,2021.0,,,,Manegement Information Systems,
-FK Alarfaj,11,PDF,Symmetry,Application of a machine learning algorithm for evaluation of stiff fractional modeling of polytropic gas spheres and electric circuits,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,0,,Â Methods in Engineering,Comprehensive Analysis of Computational Methods for Predicting Anti-inflammatory Peptides,ARTICLE,2024.0,,,,Manegement Information Systems,
-FK Alarfaj,5,PDF,Sustainability,Twitter bot detection using diverse content features and applying machine learning algorithms,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,7,,Computers in Biology and Â,NLP-BCH-Ens: NLP-based intelligent computational model for discrimination of malaria parasite,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,9,,Computers in Biology Â,Target-AMP: Computational prediction of antimicrobial peptides by coupling sequential information with evolutionary profile,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,6,PDF,Sensors,Hybrid clustering and routing algorithm with threshold-based data collection for heterogeneous wireless sensor networks,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,11,PDF,Energies,Numerical analysis of electrohydrodynamic flow in a circular cylindrical conduit by using neuro evolutionary technique,ARTICLE,2021.0,,,,Manegement Information Systems,
-FK Alarfaj,5,PDF,Algorithms,Deep Dive into Fake News Detection: Feature-Centric Classification with Ensemble and Deep Learning Methods,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,28,PDF,International Journal of Â,A multilingual datasets repository of the hadith content,PDF,2018.0,,,,Manegement Information Systems,
-FK Alarfaj,10,PDF,IEEE Â,Investigation of non-linear MHD JefferyÂHamel blood flow model using a hybrid metaheuristic approach,ARTICLE,2021.0,,,,Manegement Information Systems,
-FK Alarfaj,8,PDF,Electronics,A feature-based approach for sentiment quantification using machine learning,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,9,PDF,Advances in Continuous Â,Application of Legendre polynomials based neural networks for the analysis of heat and mass transfer of a non-Newtonian fluid in a porous channel,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,1,PDF,IEEE Â,Opinion Mining from Online Travel Reviews: An Exploratory Investigation on Pakistan Major Online Travel Services Using Natural Language Processing,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,1,PDF,PeerJ Computer Â,On solving textual ambiguities and semantic vagueness in MRC based question answering using generative pre-trained transformers,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,0,,Artificial Intelligence in Medicine,iAFPs-Mv-BiTCN: Predicting antifungal peptides using self-attention transformer embedding and transform evolutionary based multi-view features with bidirectionalÂ Â,ARTICLE,2024.0,,,,Manegement Information Systems,
-FK Alarfaj,3,HTML,Computational Â,Users' Rating Predictions Using Collaborating Filtering Based on Users and Items Similarity Measures,HTML,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,Heliyon,Compromise optimum allocation in neutrosophic multi-character survey under stratified random sampling using neutrosophic fuzzy programming,ARTICLE,2024.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,Symmetry,Differential Evolution and Agglomerative-Clustering-Based Mutation Strategy for Complex Numerical Optimization Problems,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,2,PDF,,Association rule analysis-based identification of influential users in the social media,ARTICLE,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,,Aspect-Based Sentiment Classification Using Deep Learning and Hybrid of Word Embedding and Contextual Position,ARTICLE,2023.0,,,,Manegement Information Systems,
-FK Alarfaj,4,PDF,DIR,An Adaptive Window-Size Approach for Expert-Finding.,PDF,2013.0,,,,Manegement Information Systems,
-FK Alarfaj,3,,International Journal of Â,Some Considerations on UML Class Diagram Formalisation Approaches,ARTICLE,2014.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,,Research Article Users' Rating Predictions Using Collaborating Filtering Based on Users and Items Similarity Measures,PDF,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,,"XAI Framework for Cardiovascular Disease Prediction Using Classification Techniques. Electronics 2022, 11, 4086",PDF,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,0,PDF,,"A Feature-Based Approach for Sentiment Quantification Using Machine Learning. Electronics 2022, 11, 846",PDF,2022.0,,,,Manegement Information Systems,
-FK Alarfaj,3,,Â in machine learning-based models for Â,JA o CM i E.(2023),CITATION,,,,,Manegement Information Systems,
-FK Alarfaj,2,,,Credit card fraud detection using state-of-the-art machine learning and deep learning algorithms. IEEE Access 10: 39700Â39715,CITATION,2022.0,,,,Manegement Information Systems,
-BJ Alsubaiei,23,,International Review of Financial Analysis,Oil price uncertainty and corporate cash holdings: Global evidence,ARTICLE,2022.0,4.0,1.0,44.0,Finance,
-BJ Alsubaiei,1,,Vision,Does corporate cash holding level explain mutual fund flow? Global evidence,ARTICLE,2023.0,,,,Finance,
-BJ Alsubaiei,4,,International Journal of Emerging Markets,Does family size matter to investors? Evidence from mutual fund flow in Saudi Arabia,ARTICLE,2023.0,,,,Finance,
-BJ Alsubaiei,1,HTML,International Review of Economics & Â,How does oil market volatility impact mutual fund performance?,HTML,2024.0,,,,Finance,
-BJ Alsubaiei,8,PDF,The European Journal of Â,How does mutual fund flow respond to oil market volatility?,ARTICLE,2024.0,,,,Finance,
-BJ Alsubaiei,4,PDF,Journal of International Financial Markets Â,Sovereign CDS and mutual funds: Global evidence,ARTICLE,2021.0,,,,Finance,
-BJ Alsubaiei,2,PDF,Scientific Journal of King Faisal University Â,Do Stock Market Risk Factors Explain Mutual Fund Returns? Evidence from Saudi Arabia.,PDF,2022.0,,,,Finance,
-M Ech-Cherif,62,,2019 2nd international Â,Deep neural network based mobile dermoscopy application for triaging skin cancer detection,ARTICLE,2019.0,6.0,5.0,171.0,Manegement Information Systems,
-M Ech-Cherif El Kettani,18,,Rendiconti del Circolo Â,Additive maps preserving operators of inner local spectral radius zero,ARTICLE,2014.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,3,PDF,International Journal of Â,BDA-Enabler architecture based on cloud manufacturing: the case of chemical industry,ARTICLE,2022.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,11,,Linear and Multilinear Â,Nonlinear commutant preservers,ARTICLE,2018.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,6,,Linear and Multilinear Â,Nonlinear maps preserving the local spectral subspace,ARTICLE,2019.0,,,,Manegement Information Systems,
-KM Al-Barrak,137,,,Irrigation interval and nitrogen level effects on growth and yield of canola (Brassica napus L.).,ARTICLE,2006.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,20,PDF,Sustainability,Water use efficiency and economic evaluation of the hydroponic versus conventional cultivation systems for green fodder production in Saudi Arabia,ARTICLE,2023.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,14,PDF,International Journal of ?¢A?A¦,"2-D electrical tomography for mapping of aquifers at the new campus of King Faisl University, Al Hassa, KSA",PDF,2011.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,0,PDF,Water,Assessment of Water Productivity and Economic Viability of Greenhouse-Grown Tomatoes under Soilless and Soil-Based Cultivations,ARTICLE,2024.0,,,,Manegement Information Systems,
-KM Al-Barrak,9,,,Water use efficiency in wheat grown under drought conditions.,ARTICLE,2006.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,5,PDF,Third Symposium on ?¢A?A¦,Ion and water relations of date palm trees grown in Al-Hassa Coast of Arabian Gulf of Saudi Arabia,ARTICLE,1993.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,0,PDF,,Assessment of Water Productivity and Economics of the Greenhouse-Grown Tomatoes under Soilless and Soil-Based Cultivations,ARTICLE,2023.0,,,,Manegement Information Systems,
-KM Al-Barrak?¢A?A¦,0,PDF,webagris.inra.org.ma,Partitionning of ions in date palm (Phoenix dactylifera L.) grown under saline condition,PDF,,,,,Manegement Information Systems,
-KM Al-Barrak,10,,Zagazig Journal of ?¢A?A¦,,CITATION,2003.0,,,,Manegement Information Systems,
-KM Al-Barrak,1,,J. King. Saud. Univ,Estimation of optimum field plot size and shape and number of replicates in sorghum yield trials,CITATION,2005.0,,,,Manegement Information Systems,
-AA Aljughaiman,22,HTML,International review of Â,"The Covid-19 outbreak, corporate financial distress and earnings management",ARTICLE,2023.0,6.0,5.0,212.0,Finance,
-AA Aljughaiman,61,PDF,Journal of Accounting and Public Policy,Do banks effectively manage their risks? The role of risk governance in the MENA region,ARTICLE,2019.0,,,,Finance,
-AA Aljughaiman,40,PDF,Cogent Economics & Finance,Does financial technology matter? Evidence from an alternative banking system,ARTICLE,2021.0,,,,Finance,
-AA Aljughaiman,55,PDF,Asian Pacific Journal Â,"Colon cancer among older Saudis: Awareness of risk factors and early signs, and perceived barriers to screening",ARTICLE,2016.0,,,,Finance,
-AA Aljughaiman,47,HTML,International Review of Financial Â,"Fetching better deals from creditors: Board busyness, agency relationships and the bank cost of debt",HTML,2020.0,,,,Finance,
-AA Aljughaiman,5,PDF,Sustainability,Exploring the interplay between sustainability and debt costs in an emerging market: does financial distress matter?,ARTICLE,2023.0,,,,Finance,
-AA Aljughaiman,6,PDF,Sustainability,Corporate sustainability and financial performance: The moderating effect of CEO characteristics,ARTICLE,2023.0,,,,Finance,
-AA Aljughaiman,10,,Journal of Sustainable Â,The impact of greenhouse gas emission on corporate's tail risk,ARTICLE,2024.0,,,,Finance,
-AA Aljughaiman,4,PDF,Cogent Economics & Â,"Cost of equity, debt financing policy, and the role of female directors",ARTICLE,2022.0,,,,Finance,
-AA Aljughaiman,0,HTML,Energy Strategy Â,How do inflation rate and energy alternatives influence environmental quality? A BRICS analysis,HTML,2024.0,,,,Finance,
-AA Aljughaiman,3,PDF,Sustainability,Do Investor Overconfidence and Loss Aversion Drive Saudi Firm Market Performance? The Moderating Effect of Corporate Governance,ARTICLE,2022.0,,,,Finance,
-AA Aljughaiman,0,HTML,Pacific-Basin Finance Â,Does gender diversity affect financial strength differently in conventional and Islamic banks? Evidence from MENA countries,HTML,2023.0,,,,Finance,
-AA Aljughaiman,2,PDF,Eurasian Business Â,Twitter carbon information and cost of equity: the moderating role of environmental performance,ARTICLE,2023.0,,,,Finance,
-AS Messai,863,PDF,?¢A?A¦ journal of economics and financial issues,Micro and macro determinants of non-performing loans,ARTICLE,2013.0,,,,Finance,
-AS Messai,47,PDF,International business ?¢A?A¦,Determinants of bank profitability in Western European Countries evidence from system GMM estimates,PDF,2015.0,,,,Finance,
-AS Messai,42,PDF,Asian Social Science,Financial leading indicators of banking distress: A micro prudential approach-Evidence from Europe,PDF,2015.0,,,,Finance,
-AS Messai,22,PDF,International Journal of Monetary ?¢A?A¦,Macroeconomic determinants of credit risk: A P-VAR approach evidence from Europe,ARTICLE,2019.0,,,,Finance,
-AS Messai,4,PDF,Sustainability,On the Determinants of Bitcoin Returns and Volatility: What We Get from Gets?,ARTICLE,2023.0,,,,Finance,
-AS Messai,12,PDF,Journal of Economic & Social Studies ?¢A?A¦,Predicting Banking Distress in European Countries.,PDF,2013.0,,,,Finance,
-AS Messai,7,,International Journal of Critical ?¢A?A¦,Corporate social responsibility and the corporate financial performance: the moderator role of firm size,ARTICLE,2020.0,,,,Finance,
-AS Messai,2,,International Journal of ?¢A?A¦,The relationship between bitcoin and energy commodities: AutoRegressive distributed lag approach,ARTICLE,2022.0,,,,Finance,
-AS Messai,3,,International Journal of Management ?¢A?A¦,Credit risk stress testing: theory and practice of the Spanish evidence,ARTICLE,2018.0,,,,Finance,
-AS Messai,0,,International Journal of ?¢A?A¦,Interaction between commodity market and cryptocurrencies,ARTICLE,2022.0,,,,Finance,
-AS Messai,15,PDF,La Revue Gestion et Organisation,Les d??A©terminants de pr??A?ts non performants,ARTICLE,2013.0,,,,Finance,
-M Alyahya,41,HTML,Journal of Retailing and Â,A sustainable step forward: Understanding factors affecting customers' behaviour to purchase remanufactured products,HTML,2023.0,14.0,20.0,,Manegement,602.0
-M Alyahya,100,PDF,Journal of Travel Research,Examining tourism consumers' attitudes and the role of sensory information in virtual reality experiences of a tourist destination,ARTICLE,2022.0,,,,Manegement,
-M Alyahya,46,,Clinical neurology and Â,Takotsubo cardiomyopathy in aneurysmal subarachnoid hemorrhage: Institutional experience and literature review,ARTICLE,2016.0,,,,Manegement,
-M Alyahya,29,HTML,Journal of Retailing and Â,A cross-cultural investigation of the relationship between eco-innovation and customers boycott behaviour,HTML,2023.0,,,,Manegement,
-MM Alyahya,123,HTML,International journal of Â,Subacute thyroiditis: clinical presentation and long term outcome,HTML,2014.0,,,,Manegement,
-MM Alyahya,111,PDF,Medical Â,What determines the selection of undergraduate medical students to the specialty of their future careers?,ARTICLE,2013.0,,,,Manegement,
-M Alyahya,9,HTML,Journal of Retailing and Â,Understanding the factors affecting consumers' behaviour when purchasing refurbished products: A chaordic perspective,HTML,2023.0,,,,Manegement,
-M Alyahya,27,PDF,Sustainability,"The antecedents of hotels' green creativity: the role of green HRM, environmentally specific servant leadership, and psychological green climate",ARTICLE,2023.0,,,,Manegement,
-M Alyahya,52,PDF,Sustainability,The impact of religiosity and food consumption culture on food waste intention in Saudi Arabia,ARTICLE,2021.0,,,,Manegement,
-M Alyahya,26,,Â in Education and Â,Exploring business graduates employability skills and teaching/learning techniques,ARTICLE,2023.0,,,,Manegement,
-M Alyahya,57,PDF,BMJ open,"Incidence of adverse drug events in public and private hospitals in Riyadh, Saudi Arabia: the (ADESA) prospective cohort study",ARTICLE,2016.0,,,,Manegement,
-M Alyahya,10,PDF,Sustainability,"Exploring the link between sustainable development practices, institutional pressures, and green innovation",ARTICLE,2022.0,,,,Manegement,
-M Alyahya,14,PDF,Journal of Drug Delivery Â,Formulation development of loratadine immediate-release tablets using hot-melt extrusion and 3D printing technology,ARTICLE,2022.0,,,,Manegement,
-M Alyahya,25,HTML,Journal of drug delivery Â,"Effect of pH modifiers on the solubility, dissolution rate, and stability of telmisartan solid dispersions produced by hot-melt extrusion technology",ARTICLE,2021.0,,,,Manegement,
-M Alyahya,15,PDF,Educational Sciences: Theory & Â,"Research culture among higher education institutions of Saudi Arabia and its impact on faculty performance: assessing the role of instrumentality, researchÂ Â",ARTICLE,2022.0,,,,Manegement,
-K Mili,0,HTML,Computers in Human Behavior Â,Testing the co-integration relationship between auto insurance premiums and risk compensation amount,HTML,2024.0,,,,Quantitative Method Department,
-K Mili,14,PDF,Procedia-Social and Behavioral Sciences,Six Sigma approach for the straddle carrier routing problem,ARTICLE,2014.0,,,,Quantitative Method Department,
-K Mili,9,PDF,International Journal of Econometrics and Â,Optimizing the operational process at container terminal,PDF,2015.0,,,,Quantitative Method Department,
-K Mili,4,PDF,Journal of Maritime Research,Six Sigma approach for the straddle carrier routing problem,ARTICLE,2013.0,,,,Quantitative Method Department,
-K Mili,1,,International Journal of Process Management and Â,Solving the straddle carrier routing problem using Six Sigma methodology,ARTICLE,2017.0,,,,Quantitative Method Department,
-K Mili,1,PDF,Journal of Investment and Management,New procedure for assigning drivers to work schedules at a container terminal,PDF,2015.0,,,,Quantitative Method Department,
-K Mili,2,PDF,Journal of Maritime Research,Multiple straddle carrier routing problem,ARTICLE,2015.0,,,,Quantitative Method Department,
-K Mili,1,PDF,Editorial Preface From the Desk of Managing EditorÂ,Genetic procedure for the Single Straddle Carrier Routing Problem,PDF,2012.0,,,,Quantitative Method Department,
-K Mili,0,PDF,UNDERSTANDING SIX SIGMA,THE LINK BETWEEN SIX SIGMA AND BUSINESS PERFORMANCE,PDF,,,,,Quantitative Method Department,
-MA Ammer,79,PDF,The Quarterly Review of Economics and Â,The COVID-19 pandemic and stock liquidity: Evidence from S&P 500,ARTICLE,2021.0,12.0,15.0,430.0,Finance,
-MA Ammer,39,PDF,Electronics,Deep learning algorithm to predict cryptocurrency fluctuation prices: Increasing investment awareness,ARTICLE,2022.0,,,,Finance,
-MA Ammer,31,PDF,Sustainability,Board composition and ESG disclosure in Saudi Arabia: The moderating role of corporate governance reforms,ARTICLE,2022.0,,,,Finance,
-MA Ammer,15,PDF,Sustainability,Born to be green: antecedents of green entrepreneurship intentions among higher education students,ARTICLE,2023.0,,,,Finance,
-MA Ammer,10,PDF,Sustainability,"Unveiling the connection among ESG, earnings management, and financial distress: Insights from an emerging market",ARTICLE,2023.0,,,,Finance,
-MA Ammer,33,PDF,Sustainability,Do corporate environmental sustainability practices influence firm value? The role of independent directors: Evidence from Saudi Arabia,ARTICLE,2020.0,,,,Finance,
-MA Ammer,35,PDF,International Journal of Financial Â,The impact of environmental sustainability disclosure on stock return of Saudi listed firms: The moderating role of financial constraints,ARTICLE,2021.0,,,,Finance,
-MA Ammer,14,PDF,Mathematics,Determinants of investment awareness: A moderating structural equation modeling-based model in the Saudi Arabian Context,ARTICLE,2022.0,,,,Finance,
-MA Ammer,54,,Gender in Management: An Â,The role of the gender diversity of audit committees in modelling the quality of management earnings forecasts of initial public offers in Malaysia,ARTICLE,2017.0,,,,Finance,
-MA Ammer,12,PDF,Sustainability,An investigation into the determinants of investment awareness: Evidence from the young Saudi generation,ARTICLE,2022.0,,,,Finance,
-MA Ammer,40,,International Journal of Managerial Â,"The effect of underwriter's market share, spread and management earnings forecasts bias and accuracy on underpricing of Malaysian IPOs",ARTICLE,2016.0,,,,Finance,
-MA Ammer,18,,Journal of Financial Reporting and Â,The effect of disclosure regulation on the bias and accuracy of management earnings forecasts in Malaysian IPO prospectuses,ARTICLE,2017.0,,,,Finance,
-MA Ammer,5,PDF,Mathematics,Application of Artificial Intelligence for Better Investment in Human Capital,ARTICLE,2023.0,,,,Finance,
-MA Ammer,15,PDF,Jurnal Teknologi,Absolute forecast errors of earnings in Malaysian IPO prospectuses: The impact of ethnic diversity,ARTICLE,2014.0,,,,Finance,
-MA Ammer,12,,Accounting and Finance Research,"Corporate governance, ownership structure and stock market liquidity in Saudi Arabia: A conceptual research framework",ARTICLE,2017.0,,,,Finance,
-MA Ammer,0,PDF,Cuadernos de Econom?a,Audit Quality and Firm Specific Characteristics impact on Saudi Arabia manufacturing Firms values: Mediating Role of Earning Management,ARTICLE,2024.0,,,,Finance,
-MA Ammer,10,PDF,Asian Social Science,Earnings forecasts errors in Malaysian IPO prospectuses: evidence and explanations,ARTICLE,2014.0,,,,Finance,
-MA Ammer,7,,International Journal of Islamic and Middle Â,An empirical investigation into the impact of Shari'ah-compliant status and Muslim directorship on the accuracy of IPO management earnings forecasts,ARTICLE,2019.0,,,,Finance,
-MA Ammer,0,PDF,Cuadernos de Econom?a,Examining the Accuracy of Management Earnings Forecasts of Initial Public Offerings: Does Family Governance Matter?,ARTICLE,2024.0,,,,Finance,
-MA Ammer,0,PDF,,"Unveiling the Connection among ESG, Earnings Management, and Financial Distress: Insights from an Emerging Market. Sustainability 2023, 15, 12348",PDF,2023.0,,,,Finance,
-M Alrawad,17,PDF,Cogent Social Â,The influence of artificial intelligence on the AISs efficiency: Moderating effect of the cyber security,ARTICLE,2023.0,24.0,39.0,1751.0,Quantitative Method Department,
-M Alrawad,101,HTML,Journal of Retailing and Â,Drivers and impact of big data analytic adoption in the retail industry: A quantitative investigation applying structural equation modeling,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,46,PDF,International journal of Â,Perception of occupational and environmental risks and hazards among mineworkers: A psychometric paradigm approach,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,25,HTML,Journal of Open Innovation Â,Examining the influence of trust and perceived risk on customers intention to use NFC mobile payment system,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,15,PDF,Journal of Retailing and Â,Social commerce and buying intention post COVID-19: Evidence from a hybrid approach based on SEMÂfsQCA,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,84,PDF,Sustainability,Business sustainability of small and medium enterprises during the COVID-19 pandemic: The role of AIS implementation,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,69,PDF,Sustainability,Actual use of mobile learning technologies during social distancing circumstances: Case study of King Faisal University students,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,92,PDF,Electronics,Examining the impact of artificial intelligence and social and computer anxiety in e-learning settings: Students' perceptions at the university level,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,45,PDF,Electronics,"Investigating the effect of perceived security, perceived trust, and information quality on mobile payment usage through near-field communication (NFC) in SaudiÂ Â",ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,34,PDF,Electronics,Assessing the intention to adopt cloud accounting during COVID-19,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,15,PDF,International Journal of Â,Environmental transformational leadership and green innovation in the hotel industry: two moderated mediation analyses,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,32,PDF,Journal of Risk and Â,The role of E-accounting adoption on business performance: the moderating role of COVID-19,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,30,PDF,Sustainability,Antecedents of big data analytic adoption and impacts on performance: contingent effect,CITATION,2022.0,,,,Quantitative Method Department,
-M Alrawad,13,HTML,Journal of Open Â,Enhancing VAT compliance in the retail industry: The role of socio-economic determinants and tax knowledge moderation,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,Sustainability,Exploring the Success Factors of Smart City Adoption via Structural Equation Modeling,ARTICLE,2023.0,,,,Quantitative Method Department,
-M Alrawad,8,PDF,International Journal of Â,The influence of using smart technologies for sustainable development in higher education institutions,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,8,PDF,Global Business Â,The impact of organizational training operations management on job performance: An empirical study on Jordanian government institutions,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,2,HTML,Computers in Human Â,The effect of spatial distribution on the composition of the middle social class in the Kingdom of Saudi Arabia: A spatial econometric analysis,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,24,,International Journal of Â,Executives' perception of political-legal business environment in international projects,ARTICLE,2012.0,,,,Quantitative Method Department,
-M Alrawad,1,,Journal of Retailing and Consumer Â,Understanding factors affecting social commerce purchase behavior: A longitudinal perspective,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,ECONOMICS,The Role of Stress Tests in Enhancing Bank Transparency: A Comparative Study of Islamic and Conventional Banks,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,"Journal of Open Innovation: Technology, Market, and Complexity",PDF,,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,Emerald Article: Executives' perception of political-legal business environment in international projects,PDF,,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,"Journal of Open Innovation: Technology, Market, and Complexity",PDF,,,,,Quantitative Method Department,
-M Alrawad,3,PDF,Uncertain Supply Â,"Digital transformation: An empirical analysis of operational efficiency, customer experience, and competitive advantage in Jordanian Islamic banks",ARTICLE,2024.0,,,,Quantitative Method Department,
-M Ech-Cherif,62,,2019 2nd international Â,Deep neural network based mobile dermoscopy application for triaging skin cancer detection,ARTICLE,2019.0,6.0,5.0,171.0,Manegement Information Systems,
-M Ech-Cherif El Kettani,18,,Rendiconti del Circolo Â,Additive maps preserving operators of inner local spectral radius zero,ARTICLE,2014.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,3,PDF,International Journal of Â,BDA-Enabler architecture based on cloud manufacturing: the case of chemical industry,ARTICLE,2022.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,11,,Linear and Multilinear Â,Nonlinear commutant preservers,ARTICLE,2018.0,,,,Manegement Information Systems,
-M Ech-Cherif El Kettani,6,,Linear and Multilinear Â,Nonlinear maps preserving the local spectral subspace,ARTICLE,2019.0,,,,Manegement Information Systems,
-AA Aljughaiman,22,HTML,International review of Â,"The Covid-19 outbreak, corporate financial distress and earnings management",ARTICLE,2023.0,6.0,5.0,212.0,Finance,
-AA Aljughaiman,61,PDF,Journal of Accounting and Public Policy,Do banks effectively manage their risks? The role of risk governance in the MENA region,ARTICLE,2019.0,,,,Finance,
-AA Aljughaiman,40,PDF,Cogent Economics & Finance,Does financial technology matter? Evidence from an alternative banking system,ARTICLE,2021.0,,,,Finance,
-AA Aljughaiman,55,PDF,Asian Pacific Journal Â,"Colon cancer among older Saudis: Awareness of risk factors and early signs, and perceived barriers to screening",ARTICLE,2016.0,,,,Finance,
-AA Aljughaiman,47,HTML,International Review of Financial Â,"Fetching better deals from creditors: Board busyness, agency relationships and the bank cost of debt",HTML,2020.0,,,,Finance,
-AA Aljughaiman,5,PDF,Sustainability,Exploring the interplay between sustainability and debt costs in an emerging market: does financial distress matter?,ARTICLE,2023.0,,,,Finance,
-AA Aljughaiman,6,PDF,Sustainability,Corporate sustainability and financial performance: The moderating effect of CEO characteristics,ARTICLE,2023.0,,,,Finance,
-AA Aljughaiman,10,,Journal of Sustainable Â,The impact of greenhouse gas emission on corporate's tail risk,ARTICLE,2024.0,,,,Finance,
-AA Aljughaiman,4,PDF,Cogent Economics & Â,"Cost of equity, debt financing policy, and the role of female directors",ARTICLE,2022.0,,,,Finance,
-AA Aljughaiman,0,HTML,Energy Strategy Â,How do inflation rate and energy alternatives influence environmental quality? A BRICS analysis,HTML,2024.0,,,,Finance,
-AA Aljughaiman,3,PDF,Sustainability,Do Investor Overconfidence and Loss Aversion Drive Saudi Firm Market Performance? The Moderating Effect of Corporate Governance,ARTICLE,2022.0,,,,Finance,
-AA Aljughaiman,0,HTML,Pacific-Basin Finance Â,Does gender diversity affect financial strength differently in conventional and Islamic banks? Evidence from MENA countries,HTML,2023.0,,,,Finance,
-AA Aljughaiman,2,PDF,Eurasian Business Â,Twitter carbon information and cost of equity: the moderating role of environmental performance,ARTICLE,2023.0,,,,Finance,
-AS Messai,863,PDF,?¢A?A¦ journal of economics and financial issues,Micro and macro determinants of non-performing loans,ARTICLE,2013.0,,,,Finance,
-AS Messai,47,PDF,International business ?¢A?A¦,Determinants of bank profitability in Western European Countries evidence from system GMM estimates,PDF,2015.0,,,,Finance,
-AS Messai,42,PDF,Asian Social Science,Financial leading indicators of banking distress: A micro prudential approach-Evidence from Europe,PDF,2015.0,,,,Finance,
-AS Messai,22,PDF,International Journal of Monetary ?¢A?A¦,Macroeconomic determinants of credit risk: A P-VAR approach evidence from Europe,ARTICLE,2019.0,,,,Finance,
-AS Messai,4,PDF,Sustainability,On the Determinants of Bitcoin Returns and Volatility: What We Get from Gets?,ARTICLE,2023.0,,,,Finance,
-AS Messai,12,PDF,Journal of Economic & Social Studies ?¢A?A¦,Predicting Banking Distress in European Countries.,PDF,2013.0,,,,Finance,
-AS Messai,7,,International Journal of Critical ?¢A?A¦,Corporate social responsibility and the corporate financial performance: the moderator role of firm size,ARTICLE,2020.0,,,,Finance,
-AS Messai,2,,International Journal of ?¢A?A¦,The relationship between bitcoin and energy commodities: AutoRegressive distributed lag approach,ARTICLE,2022.0,,,,Finance,
-AS Messai,3,,International Journal of Management ?¢A?A¦,Credit risk stress testing: theory and practice of the Spanish evidence,ARTICLE,2018.0,,,,Finance,
-AS Messai,0,,International Journal of ?¢A?A¦,Interaction between commodity market and cryptocurrencies,ARTICLE,2022.0,,,,Finance,
-AS Messai,15,PDF,La Revue Gestion et Organisation,Les d??A©terminants de pr??A?ts non performants,ARTICLE,2013.0,,,,Finance,
-M Alrawad,17,PDF,Cogent Social Â,The influence of artificial intelligence on the AISs efficiency: Moderating effect of the cyber security,ARTICLE,2023.0,24.0,39.0,1751.0,Quantitative Method Department,
-M Alrawad,101,HTML,Journal of Retailing and Â,Drivers and impact of big data analytic adoption in the retail industry: A quantitative investigation applying structural equation modeling,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,46,PDF,International journal of Â,Perception of occupational and environmental risks and hazards among mineworkers: A psychometric paradigm approach,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,25,HTML,Journal of Open Innovation Â,Examining the influence of trust and perceived risk on customers intention to use NFC mobile payment system,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,15,PDF,Journal of Retailing and Â,Social commerce and buying intention post COVID-19: Evidence from a hybrid approach based on SEMÂfsQCA,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,84,PDF,Sustainability,Business sustainability of small and medium enterprises during the COVID-19 pandemic: The role of AIS implementation,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,69,PDF,Sustainability,Actual use of mobile learning technologies during social distancing circumstances: Case study of King Faisal University students,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,92,PDF,Electronics,Examining the impact of artificial intelligence and social and computer anxiety in e-learning settings: Students' perceptions at the university level,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,45,PDF,Electronics,"Investigating the effect of perceived security, perceived trust, and information quality on mobile payment usage through near-field communication (NFC) in SaudiÂ Â",ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,34,PDF,Electronics,Assessing the intention to adopt cloud accounting during COVID-19,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,15,PDF,International Journal of Â,Environmental transformational leadership and green innovation in the hotel industry: two moderated mediation analyses,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,32,PDF,Journal of Risk and Â,The role of E-accounting adoption on business performance: the moderating role of COVID-19,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,30,PDF,Sustainability,Antecedents of big data analytic adoption and impacts on performance: contingent effect,CITATION,2022.0,,,,Quantitative Method Department,
-M Alrawad,13,HTML,Journal of Open Â,Enhancing VAT compliance in the retail industry: The role of socio-economic determinants and tax knowledge moderation,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,Sustainability,Exploring the Success Factors of Smart City Adoption via Structural Equation Modeling,ARTICLE,2023.0,,,,Quantitative Method Department,
-M Alrawad,8,PDF,International Journal of Â,The influence of using smart technologies for sustainable development in higher education institutions,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,8,PDF,Global Business Â,The impact of organizational training operations management on job performance: An empirical study on Jordanian government institutions,ARTICLE,2022.0,,,,Quantitative Method Department,
-M Alrawad,2,HTML,Computers in Human Â,The effect of spatial distribution on the composition of the middle social class in the Kingdom of Saudi Arabia: A spatial econometric analysis,HTML,2023.0,,,,Quantitative Method Department,
-M Alrawad,24,,International Journal of Â,Executives' perception of political-legal business environment in international projects,ARTICLE,2012.0,,,,Quantitative Method Department,
-M Alrawad,1,,Journal of Retailing and Consumer Â,Understanding factors affecting social commerce purchase behavior: A longitudinal perspective,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,ECONOMICS,The Role of Stress Tests in Enhancing Bank Transparency: A Comparative Study of Islamic and Conventional Banks,ARTICLE,2024.0,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,"Journal of Open Innovation: Technology, Market, and Complexity",PDF,,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,Emerald Article: Executives' perception of political-legal business environment in international projects,PDF,,,,,Quantitative Method Department,
-M Alrawad,0,PDF,researchgate.net,"Journal of Open Innovation: Technology, Market, and Complexity",PDF,,,,,Quantitative Method Department,
-M Alrawad,3,PDF,Uncertain Supply Â,"Digital transformation: An empirical analysis of operational efficiency, customer experience, and competitive advantage in Jordanian Islamic banks",ARTICLE,2024.0,,,,Quantitative Method Department,
-AM AlMubarak,16,PDF,International Journal of ?,Influence of surgical flap design (Envelope and Szmyd) for removal of impacted mandibular third molars on clinical periodontal parameters: A clinical trial,ARTICLE,2021.0,6.0,4.0,374.0,Manegement Information Systems,
-AM AlMubarak?,9,PDF,?,Evaluation of serum neuron specific enolase levels among patients with primary and secondary burning mouth syndrome,ARTICLE,2022.0,,,,Manegement Information Systems,
-AM AlMubarak,9,PDF,International journal of ?,Association of self-perceived psychological stress with the periodontal health of socially deprived women in shelter homes,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak,6,PDF,Oral. Health Prev ?,Analgesic Efficacy of Curcuma longa (Curcumin) after Surgical Periodontal Therapy,PDF,2022.0,,,,Manegement Information Systems,
-AM AlMubarak,5,PDF,Oral Health Prev ?,Whole salivary cotinine levels and interleukin 1-? levels among young adults involuntarily exposed to Vapor from Electronic Nicotine Delivery Systems,PDF,2022.0,,,,Manegement Information Systems,
-AM AlMubarak?,3,PDF,Applied Sciences,Association of self-rated pain with clinical peri-implant parameters and cytokine profile in smokers and never smokers with and without peri-implantitis,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak?,3,PDF,Applied Sciences,"Cytotoxic Influence of Khat (Catha edulis (Vahl) Forssk. ex Endl) on Oral Fibroblasts, Squamous Carcinoma Cells, and Expression of ? Smooth Muscle Actin",ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak?,5,PDF,International Journal of ?,Assessment of Unstimulated Whole Salivary Tumor Necrosis Factor Alpha (TNF-?) and Cellular Micronuclei Levels in Snuff (Naswar) Users and Non-Users for EarlyÂ ?,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak,1,PDF,Oral health & ?,"Peri-implant Sulcular Fluid Galectin-1, Soluble Urokinase Plasminogen Activator Receptor and IL-1? Levels under Peri-implant Inflammatory Conditions",PDF,2021.0,,,,Manegement Information Systems,
-AK Alnaim,57,PDF,SoutheastCon 2018,A survey of network function virtualization security,ARTICLE,2018.0,7.0,6.0,187.0,Manegement Information Systems,
-AK Alnaim,19,PDF,Electronics,Machine-learning-based IoTÂedge computing healthcare solutions,ARTICLE,2023.0,,,,Manegement Information Systems,
-AK Alnaim,4,HTML,Journal of King Saud Â,Classification of Alzheimer's disease using MRI data based on Deep Learning Techniques,HTML,2024.0,,,,Manegement Information Systems,
-AK Alnaim,18,PDF,2019 IEEE International Â,A pattern for an NFV Virtual Machine Environment,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,11,PDF,2019 2nd International Â,Toward a reference architecture for NFV,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,10,PDF,Proceedings of the 8th Â,A misuse pattern for NFV based on privilege escalation,PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,7,,2019 IEEE International Â,Analysis of threats and countermeasures in NFV use cases,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,1,PDF,IEEE Access,Leveraging axiomatic design and research information systems to promote research outcomes at public universities,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,6,,2019 2nd International Â,Threats against the virtual machine environment of NFV,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,6,PDF,Proceedings of the 8th Â,A pattern for NFV management and orchestration (MANO),PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 14th Â,A Pattern for a Virtual Network Function (VNF),ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 26th Â,A pattern for network function virtualization infrastructure (NFVI),PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 26th Â,A Misuse Pattern for Distributed Denial-of-Service Attack in Network Function Virtualization,PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,0,PDF,Future Internet,Misuse Patterns from the Threat of Modification of Non-Control Data in Network Function Virtualization,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,3,PDF,,Towards a Security Reference Architecture for Network Function Virtualization,ARTICLE,2020.0,,,,Manegement Information Systems,
-AK Alnaim,0,PDF,ICT Infrastructure and Computing Â,Axiomatically Designed Research Support Systems,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,1,,"Nfv, and Network Slicing","The State of Security in Sdn, Nfv, and Network Slicing",ARTICLE,2023.0,,,,Manegement Information Systems,
-AK Alnaim,2,,"Nfv, and 5g","The State of Security in Sdn, Nfv, and 5g",ARTICLE,,,,,Manegement Information Systems,
-AK Alnaim,8,PDF,Sensors,Towards a security reference architecture for NFV,ARTICLE,2022.0,,,,Manegement Information Systems,
-A Mehmood,1479,,Nano Energy,Recent advancements in supercapacitor technology,ARTICLE,2018.0,10.0,11.0,345.0,Manegement Information Systems,
-A Mehmood,183,HTML,Journal of Nanomaterials,"Uptake, translocation, and consequences of nanomaterials on plant growth and stress adaptation",HTML,2021.0,,,,Manegement Information Systems,
-A Mehmood,285,PDF,Nature Catalysis,High loading of single atomic iron sites in FeÂNC oxygen reduction catalysts for proton exchange membrane fuel cells,ARTICLE,2022.0,,,,Manegement Information Systems,
-A Mehmood,585,PDF,IEEE Â,COVID-19 future forecasting using supervised machine learning models,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,568,,Planning Practice & Research,Evolutionary resilience and strategies for climate adaptation,ARTICLE,2013.0,,,,Manegement Information Systems,
-A Mehmood,237,PDF,Energy & Â,Establishing reactivity descriptors for platinum group metal (PGM)-free FeÂNÂC catalysts for PEM fuel cells,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,152,,Â on Geoscience and Â,Local similarity-based spatialÂspectral fusion hyperspectral image classification with deep CNN and Gabor filtering,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,287,PDF,Journal of Sound and Â,Piezoelectric energy harvesting from vortex-induced vibrations of circular cylinder,ARTICLE,2013.0,,,,Manegement Information Systems,
-A Mehmood,430,,,Planning for climate change: strategies for mitigation and adaptation for spatial planners,BOOK,2009.0,,,,Manegement Information Systems,
-A Mehmood,262,PDF,IEEE Â,Fake news stance detection using deep learning architecture (CNN-LSTM),ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,129,HTML,Complexity,An efficient CNN model for COVID-19 disease detection based on X-ray image classification,HTML,2021.0,,,,Manegement Information Systems,
-A Mehmood,194,,Materials Science and Â,Green synthesis of silver nanoparticles and their applications as an alternative antibacterial and antioxidant agents,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,154,PDF,Arabian Journal for Â,Prediction of heart disease using deep convolutional neural networks,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,269,PDF,European planning studies,Of resilient places: planning for urban resilience,ARTICLE,2016.0,,,,Manegement Information Systems,
-A Mehmood,339,PDF,IEEE Â,Protection of big data privacy,ARTICLE,2016.0,,,,Manegement Information Systems,
-A Mehmood,310,PDF,Local Environment,Social innovation and the governance of sustainable places,ARTICLE,2015.0,,,,Manegement Information Systems,
-A Mehmood,200,PDF,C,An overview of the recent progress in the synthesis and applications of carbon nanotubes,ARTICLE,2019.0,,,,Manegement Information Systems,
-A Mehmood,143,PDF,IEEE Â,Impact of SMOTE on imbalanced text features for toxic comments classification using RVVC model,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,165,PDF,Brain sciences,State-of-the-art CNN optimizer for brain tumor segmentation in magnetic resonance images,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,223,,Proceedings of the Â,The role of high-altitude platforms (HAPs) in the global wireless connectivity,ARTICLE,2011.0,,,,Manegement Information Systems,
-A Mehmood,227,,Materials Letters,Green synthesis of silver nanoparticles using leaves extract of Skimmia laureola: characterization and antibacterial activity,ARTICLE,2015.0,,,,Manegement Information Systems,
-A Mehmood,331,PDF,Plos one,A performance comparison of supervised machine learning models for Covid-19 tweets sentiment analysis,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,150,,Cell Biology Â,"Bone marrow derived mesenchymal stem cells from aged mice have reduced wound healing, angiogenesis, proliferation and anti-apoptosis capabilities",ARTICLE,2012.0,,,,Manegement Information Systems,
-A Mehmood,151,PDF,Briefings in Â,Systematic evaluation of differential splicing tools for RNA-seq studies,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,174,,Animal Reproduction Â,Duck egg yolk in extender improves the freezability of buffalo bull spermatozoa,ARTICLE,2008.0,,,,Manegement Information Systems,
-ASB Samma,58,PDF,"World Academy of Science, Engineering and Â",Adaptation of k-means algorithm for image segmentation,PDF,2009.0,5.0,4.0,126.0,Manegement Information Systems,
-ASB Samma,11,,2010 Seventh International Â,Combining boundary and skeleton information for convex and concave points detection,ARTICLE,2010.0,,,,Manegement Information Systems,
-ASB Samma,3,PDF,International Journal of Computer and Â,Enhancement of shape description and representation by slope,PDF,2009.0,,,,Manegement Information Systems,
-ASB Samma,0,,Â International Conference on Â,Enhancement of background subtraction approach for image segmentation,ARTICLE,2010.0,,,,Manegement Information Systems,
-AG Benahmed?,202,HTML,Clinical ?,Interrelations between COVID-19 and other disorders,ARTICLE,2021.0,5.0,5.0,138.0,Economics,
-AG Benahmed?,125,HTML,Clinical ?,Micronutrients as immunomodulatory tools for COVID-19 management,ARTICLE,2020.0,,,,Economics,
-AG Benahmed,75,,Anaerobe,Association between the gut and oral microbiome with obesity,ARTICLE,2021.0,,,,Economics,
-AG Benahmed?,47,HTML,Clinical ?,The microbiota-mediated dietary and nutritional interventions for COVID-19,ARTICLE,2021.0,,,,Economics,
-AG Benahmed?,50,,Current medicinal ?,"Relationship between gut microbiota, gut hyperpermeability and obesity",ARTICLE,2021.0,,,,Economics,
-AA Al Naim,608,,,"AAPG Memoir 74, Chapter 24: Paleozoic stratigraphy and hydrocarbon habitat of the Arabian plate",ARTICLE,2001.0,,,,Manegement,
-A Al Naim,66,HTML,Journal of radiation Â,Effect of gamma irradiation on the mechanical properties of PVC/ZnO polymer nanocomposite,HTML,2017.0,,,,Manegement,
-AA Al Naim,11,HTML,World Journal of Â,First aid for burns and burn-related nutrition among 2437 inhabitants: a nationwide survey in Saudi Arabia,HTML,2022.0,,,,Manegement,
-A Al Naim,34,,Applied Physics Letters,Electron transporting water-gated thin film transistors,ARTICLE,2012.0,,,,Manegement,
-A Al Naim,3,PDF,Pediatric surgery Â,Management of pediatric blunt abdominal trauma with split liver or spleen injuries: a retrospective study,ARTICLE,2023.0,,,,Manegement,
-A Al Naim,8,PDF,Cureus,Physician satisfaction with virtual ophthalmology clinics during the COVID-19 pandemic: a tertiary eye care Center experience,PDF,2022.0,,,,Manegement,
-AA Al Naim,17,PDF,AAPG Â,Paleozoic stratigraphy and hydrocarbon habitat of the Arabian plate,ARTICLE,1999.0,,,,Manegement,
-AM AlMubarak,16,PDF,International Journal of ?,Influence of surgical flap design (Envelope and Szmyd) for removal of impacted mandibular third molars on clinical periodontal parameters: A clinical trial,ARTICLE,2021.0,6.0,4.0,374.0,Manegement Information Systems,
-AM AlMubarak?,9,PDF,?,Evaluation of serum neuron specific enolase levels among patients with primary and secondary burning mouth syndrome,ARTICLE,2022.0,,,,Manegement Information Systems,
-AM AlMubarak,9,PDF,International journal of ?,Association of self-perceived psychological stress with the periodontal health of socially deprived women in shelter homes,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak,6,PDF,Oral. Health Prev ?,Analgesic Efficacy of Curcuma longa (Curcumin) after Surgical Periodontal Therapy,PDF,2022.0,,,,Manegement Information Systems,
-AM AlMubarak,5,PDF,Oral Health Prev ?,Whole salivary cotinine levels and interleukin 1-? levels among young adults involuntarily exposed to Vapor from Electronic Nicotine Delivery Systems,PDF,2022.0,,,,Manegement Information Systems,
-AM AlMubarak?,3,PDF,Applied Sciences,Association of self-rated pain with clinical peri-implant parameters and cytokine profile in smokers and never smokers with and without peri-implantitis,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak?,3,PDF,Applied Sciences,"Cytotoxic Influence of Khat (Catha edulis (Vahl) Forssk. ex Endl) on Oral Fibroblasts, Squamous Carcinoma Cells, and Expression of ? Smooth Muscle Actin",ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak?,5,PDF,International Journal of ?,Assessment of Unstimulated Whole Salivary Tumor Necrosis Factor Alpha (TNF-?) and Cellular Micronuclei Levels in Snuff (Naswar) Users and Non-Users for EarlyÂ ?,ARTICLE,2021.0,,,,Manegement Information Systems,
-AM AlMubarak,1,PDF,Oral health & ?,"Peri-implant Sulcular Fluid Galectin-1, Soluble Urokinase Plasminogen Activator Receptor and IL-1? Levels under Peri-implant Inflammatory Conditions",PDF,2021.0,,,,Manegement Information Systems,
-AK Alnaim,57,PDF,SoutheastCon 2018,A survey of network function virtualization security,ARTICLE,2018.0,7.0,6.0,187.0,Manegement Information Systems,
-AK Alnaim,19,PDF,Electronics,Machine-learning-based IoTÂedge computing healthcare solutions,ARTICLE,2023.0,,,,Manegement Information Systems,
-AK Alnaim,4,HTML,Journal of King Saud Â,Classification of Alzheimer's disease using MRI data based on Deep Learning Techniques,HTML,2024.0,,,,Manegement Information Systems,
-AK Alnaim,18,PDF,2019 IEEE International Â,A pattern for an NFV Virtual Machine Environment,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,11,PDF,2019 2nd International Â,Toward a reference architecture for NFV,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,10,PDF,Proceedings of the 8th Â,A misuse pattern for NFV based on privilege escalation,PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,7,,2019 IEEE International Â,Analysis of threats and countermeasures in NFV use cases,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,1,PDF,IEEE Access,Leveraging axiomatic design and research information systems to promote research outcomes at public universities,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,6,,2019 2nd International Â,Threats against the virtual machine environment of NFV,ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,6,PDF,Proceedings of the 8th Â,A pattern for NFV management and orchestration (MANO),PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 14th Â,A Pattern for a Virtual Network Function (VNF),ARTICLE,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 26th Â,A pattern for network function virtualization infrastructure (NFVI),PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,5,PDF,Proceedings of the 26th Â,A Misuse Pattern for Distributed Denial-of-Service Attack in Network Function Virtualization,PDF,2019.0,,,,Manegement Information Systems,
-AK Alnaim,0,PDF,Future Internet,Misuse Patterns from the Threat of Modification of Non-Control Data in Network Function Virtualization,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,3,PDF,,Towards a Security Reference Architecture for Network Function Virtualization,ARTICLE,2020.0,,,,Manegement Information Systems,
-AK Alnaim,0,PDF,ICT Infrastructure and Computing Â,Axiomatically Designed Research Support Systems,ARTICLE,2022.0,,,,Manegement Information Systems,
-AK Alnaim,1,,"Nfv, and Network Slicing","The State of Security in Sdn, Nfv, and Network Slicing",ARTICLE,2023.0,,,,Manegement Information Systems,
-AK Alnaim,2,,"Nfv, and 5g","The State of Security in Sdn, Nfv, and 5g",ARTICLE,,,,,Manegement Information Systems,
-AK Alnaim,8,PDF,Sensors,Towards a security reference architecture for NFV,ARTICLE,2022.0,,,,Manegement Information Systems,
-SAA Al-Dubai,2,PDF,Heliyon,"Do level, field, and place of board members' Education impact financial risk disclosure? A Saudi Empirical evidence",PDF,2023.0,6.0,5.0,152.0,Accounting,
-SAA Al-Dubai,53,PDF,The Journal of Asian Â,Involvement of board chairmen in audit committees and earnings management: Evidence from Malaysia,ARTICLE,2020.0,,,,Accounting,
-SAA Al-Dubai,2,PDF,Corporate Governance and Â,Examining the relationship between board characteristics and financial risk disclosure: A longitudinal analysis based on agency theory,PDF,2023.0,,,,Accounting,
-SAA Al-Dubai,10,PDF,International conference on Â,Overview of family business in Saudi Arabia,PDF,2012.0,,,,Accounting,
-SAA Al-Dubai,0,PDF,researchgate.net,A CONCEPTUAL FRAMEWORK FOR THE MODERATING EFFECT OF FAMILY CEO AND GENERATION ON THE FAMILY INVOLVEMENT IN OWNERSHIPÂ Â,PDF,,,,,Accounting,
-NAA Abdelwahed,102,HTML,Asia Pacific Management Review,Predicting employee performance through transactional leadership and entrepreneur's passion among the employees of Pakistan,HTML,2023.0,11.0,12.0,497.0,,
-NAA Abdelwahed,39,PDF,Sustainability,"Organizational environmental culture, environmental sustainability and performance: the mediating role of green HRM and green innovation",ARTICLE,2022.0,,,,,
-NAA Abdelwahed,38,,Journal of Economic and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Intention to adopt cryptocurrency: a robust contribution of trust and the theory of planned behavior,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,22,PDF,Societies,Developing employee productivity and performance through work engagement and organizational factors in an educational society,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,18,PDF,Kybernetes,The role of digital technology and digital innovation towards firm performance in a digital economy,ARTICLE,2024.0,,,,,
-NAA Abdelwahed,7,PDF,Journal of Small ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Green entrepreneurship in Saudi Arabia: shaping the landscape of the greener economy,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,54,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,The influence of demographic factors on the business success of entrepreneurs: An empirical study from the small and medium-sized enterprises context ofÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,PDF,2019.0,,,,,
-NAA Abdelwahed,17,PDF,Education+ Training,Attitudes and intentions towards the adoption of mobile learning during COVID-19: building an exciting career through vocational education,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,5,PDF,Education+ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Leading towards the students' career development and career intentions through using multidimensional soft skills in the digital age,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,10,,South Asian Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Developing the relationship between corporate cultural factors and employees' organizational commitment via self-efficacy,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,6,PDF,Sustainability,Developing female sustainable entrepreneurial intentions through an entrepreneurial mindset and motives,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,13,PDF,Sustainability,"Women, entrepreneurship, and sustainability: the case of Saudi Arabia",ARTICLE,2022.0,,,,,
-NAA Abdelwahed,46,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,IMPACT OF SOCIAL NETWORKING SITES'USE ON ENTREPRENEURIAL INTENTION AMONG UNDERGRADUATE BUSINESS STUDENTS: THE CASE OFÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,PDF,2018.0,,,,,
-NAA Abdelwahed,8,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Effect of institutional support and entrepreneurial knowledge on women's entrepreneurial self-efficacy and venture performance in a developing country,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,2,,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Orientation and absorptive capacity towards sustainability: a missing link between sustainability and performance,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,2,PDF,Social Responsibility ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,"Developing environmental performance through sustainable practices, environmental CSR and behavioural intentions: an online approach during the COVID-19ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",ARTICLE,2024.0,,,,,
-NAA Abdelwahed,11,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,"Factors affecting online learning, stress and anxiety during the COVID-19 pandemic in Saudi Arabia",ARTICLE,2023.0,,,,,
-NAA Abdelwahed,9,PDF,Sustainability,Developing entrepreneurial sustainability among Saudi Arabia's university students,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,8,PDF,Sustainability,Environmental challenges and green innovation strategy: A vigorous development of greener dynamics,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,3,PDF,Risks,"The COVID-19 Crises: The threats, uncertainties and risks in entrepreneurial development",ARTICLE,2023.0,,,,,
-NAA Abdelwahed,9,PDF,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ of Environmental Quality ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Climate change and pro-environmental behaviours: the significant environmental challenges of livelihoods,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,15,PDF,Heliyon,"Determining employee satisfaction, intrapreneurship and firm growth among managers of Pakistan",PDF,2022.0,,,,,
-NAA Abdelwahed,4,PDF,Journal of Science and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Entrepreneurship barriers faced by Pakistani female students in relation to their entrepreneurial inclinations and entrepreneurial success,ARTICLE,2024.0,,,,,
-NAA Abdelwahed,1,,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,The achievement of sustainable development and business success through rational management decision-making in a circular economy,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,1,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Forecasting turnover intention: an analysis of psychological factors and perceived organizational support among healthcare professionals,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,8,PDF,Sustainability,"The role of environment, business and human behavior towards entrepreneurial sustainability",ARTICLE,2022.0,,,,,
-NAA Abdelwahed,2,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Green Hrm Practices and Quality of Corporate Performance: the Avenues Towards Green Business,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,3,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,The predictive power of human resource practices in developing social entrepreneurship performance and sustainable business,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,"Unleashing potential: Islamic leadership's influence on employee performance via Islamic organizational values, organizational culture and work motivation",ARTICLE,2024.0,,,,,
-NAA Abdelwahed,4,PDF,Sustainability,The empowerment of Saudi Arabian women through a multidimensional approach: the mediating roles of self-efficacy and family support,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,2,PDF,Safety,Factors impacting occupational safety among women engineers,CITATION,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Kybernetes,The predictive robustness of organizational and technological enablers towards blockchain technology adoption and financial performance,ARTICLE,2024.0,,,,,
-NAA Abdelwahed,1,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Entrepreneurial leadership and enterprise performance: A way out of sustainability,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,1,PDF,Sustainability,Examining the Impact of Marketing Motives and Concerns on User Satisfaction and Re-Purchase Intentions in a Sharing Economy,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,1,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Digital technology and intentions to adopt digital e-health practices among health-care professionals,ARTICLE,2024.0,,,,,
-NAA Abdelwahed,1,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Examining the Role of Organizational Behavior and Leadership Styles Towards Employees' Performance in Petrochemical Companies in Saudi Arabia,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,1,PDF,Safety,The Impact of the Implementation of Safety Measures on Frontline Workers' Safety Accountability: A Saudi Arabian Case Study of a Well Intervention Business Model,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,2,PDF,The Journal of Modern ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Female Talent Management Practices and Sustainable Firm Performance in Saudi Arabia: Building the Relationship Through Perceived Organizational Support,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,4,PDF,AgBioForum,Green intellectual capital and sustainability in manufacturing industries in Saudi Arabia,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,3,PDF,International Journal of Innovation ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Determining the influence of socio-economic factors on entrepreneurship activities in Pakistan,PDF,2021.0,,,,,
-NAA Abdelwahed,1,PDF,,"The COVID-19 Crises: The Threats, Uncertainties and Risks in Entrepreneurial Development. Risks, 11, 89",PDF,2023.0,,,,,
-NAA Abdelwahed,1,PDF,International Journal of ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,ENTREPRENEURS'PERCEPTIONS TOWARDS THE DYNAMIC ROLE OF ENTREPRENEURSHIP IN OVERCOMING POVERTY,PDF,2022.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Role of Transformational Leadership and Social Entrepreneurship in Achieving Enterprise Performance: Taking Creativity as a Mediator,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,"Job Performance Prognosis: Evaluating Work Engagement, Workaholism, and Self-Efficacy",ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Impact of Leadership Style on Employees' Motivation: The Contribution of Psychological Capital and Employees' Engagement,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Nurturing the Entrepreneurial Path: Unraveling the Interplay Between Entrepreneurial Mindset and Intention Through the Lens of Entrepreneurial Culture,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,"Identifying Factors Influencing Employee Turnover Rate (A Case Study in Private Schools and Institutions, Alahsa)",ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,HTML,OBM Neurobiology,Resilience in Adversity: COVID-19 Pandemic Challenges in Diminishing Entrepreneurial Intentions and Business Startups,HTML,2024.0,,,,,
-NAA Abdelwahed,1,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Be A Teacher And Shut Up: When The Violation of The Psychological Contract Stands as A Perfect Mediator in the Relationship Between Sexual Harassment andÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,HTML,OBM Neurobiology,"Anxiety, Stress and Depression as the Notorious Barriers to Achieving a Massive Performance among Egyptian Construction Site Workers",HTML,2023.0,,,,,
-NAA Abdelwahed,1,PDF,OBM Neurobiology,COVID-19 Milieu and Its Psychological Effects on the Environmental Performance,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,The Robustness of Social Capital in The Wildlife Tourism Micro Entrepreneurship Arena,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Strategic Behaviours In Municipal Decision-Making: A Strategic Approach,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,1,HTML,OBM Neurobiology,"The Impact of Psychological Stress on Personal Income, Physical Health and Entrepreneurial Intentions among Entrepreneurs",HTML,2024.0,,,,,
-NAA Abdelwahed,1,HTML,OBM Genetics,Examining the Relationship between Attitudes Towards Genomic Technology and Genetic Entrepreneurial Intention among Egyptian HealthcareÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,HTML,2023.0,,,,,
-NAA Abdelwahed,0,PDF,,GREEN HUMAN RESOURCE MANAGEMENT AND ENVIRONMENTAL PERFORMANCE AMONG HOTELS,PDF,2024.0,,,,,
-NAA Abdelwahed,0,PDF,,ENHANCING ORGANIZATIONAL BEHAVIOUR THROUGH CORPORATE GOVERNANCE: THE CRUCIAL ROLE OF ORGANIZATIONAL CULTURE ANDÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,PDF,2024.0,,,,,
-NAA Abdelwahed,0,PDF,Journal of Law and ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Understanding the Intention to Purchase and Not to Purchase Organic Food among Students: Structural Equation Modeling,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,2,,ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ Journal of Medicine,The effect of diet carbonated drinks and monosodium glutamate on the cerebellar cortex and the kidney of adult male albino rats. Histological and immunoÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,ARTICLE,2020.0,,,,,
-NAA Abdelwahed,0,PDF,,BUSINESS STRATEGY AND FIRM PERFORMANCE IN SMES: RECOGNIZING THE ROLE OF THE ENVIRONMENTAL MANAGEMENT PROCESS,PDF,2023.0,,,,,
-NAA Abdelwahed,1,PDF,International Journal of Innovation ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,The Impact of Transformational Leadership Style on Organisational Commitment: Imam Abdulrahman Bin Faisal University as a Case Study,PDF,2021.0,,,,,
-NAA Abdelwahed,1,PDF,International Journal of Innovation ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Preferred learning styles of management students of Pakistan,PDF,2021.0,,,,,
-NAA Abdelwahed,0,PDF,Revista de Psicolog?a ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ,Determining entrepreneurs' characteristics towards psychological empowerment in Saudi Arabia,ARTICLE,2022.0,,,,,
-NAA Abdelwahed,0,PDF,RES MILITARIS,Effects Of COVID-19 Complexities On Sustainable Firms' Business Strategy In Manufacturing Industries In Saudi Arabia,ARTICLE,2023.0,,,,,
-NAA Abdelwahed,0,PDF,,"Developing Female Sustainable Entrepreneurial Intentions through an Entrepreneurial Mindset and Motives. Sustainability 2023, 15, 6210",PDF,2023.0,,,,,
-NAA Abdelwahed,0,PDF,,"The Role of Environment, Business and Human Behavior towards Entrepreneurial Sustainability. Sustainability 2022, 14, 2517",PDF,2022.0,,,,,
-NAA Abdelwahed,3,,,"The Role of Environment, Business and Human Behavior towards Entrepreneurial Sustainability. Sustainability, 14 (5), 2517",CITATION,2022.0,,,,,
-NAA Abdelwahed,3,,Int. J. Innov. Creat. Change,Determining consumers' attitude towards the purchase of counterfeit fashion products in Pakistan,CITATION,2021.0,,,,,
-Y Gulzar,36,PDF,Sustainability,"Image acquisition, preprocessing and classification of citrus fruit diseases: A systematic literature review",ARTICLE,2023.0,20.0,31.0,1247.0,Manegement Information Systems,
-Y Gulzar,59,PDF,Symmetry,Distributed denial of service (DDoS) mitigation using blockchainÂA comprehensive insight,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,18,PDF,Sustainability,eLearning acceptance and adoption challenges in Higher Education,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,117,PDF,Sustainability,Fruit image classification model based on MobileNetV2 with deep transfer learning technique,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,80,PDF,Sustainability,Enhancing image annotation technique of fruit classification using a deep learning approach,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,80,PDF,Sustainability,A deep learning-based model for date fruit classification,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,116,PDF,Symmetry,A convolution neural network-based seed classification system,ARTICLE,2020.0,,,,Manegement Information Systems,
-Y Gulzar,47,PDF,Sustainability,An artificial intelligence-based stacked ensemble approach for prediction of protein subcellular localization in confocal microscopy images,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,59,PDF,Applied Sciences,Skin lesion segmentation based on vision transformers and convolutional neural networksÂa comparative study,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,43,PDF,Diagnostics,Weighted average ensemble deep learning model for stratification of brain tumor in MRI images,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,31,PDF,Agriculture,Harnessing the power of transfer learning in sunflower disease detection: A comparative study,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,53,,Â on Computing and Â,Smart seed classification system based on MobileNetV2 architecture,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,38,,International Journal of Â,An improvised CNN model for fake image detection,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,23,PDF,Sustainability,Blockchain-based framework for interoperable electronic health records for an improved healthcare system,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,21,PDF,Sustainability,Adversarial approaches to tackle imbalanced data in machine learning,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,29,HTML,Wireless Communications and Mobile Â,Investigation of machine learning methods for early prediction of neurodevelopmental disorders in children,HTML,2022.0,,,,Manegement Information Systems,
-Y Gulzar,13,PDF,Cancers,SBXception: a shallower and broader xception architecture for efficient classification of skin lesions,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,16,PDF,Sustainability,OCA: ordered clustering-based algorithm for e-commerce recommendation system,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,28,PDF,Symmetry,A modified HSIFT Descriptor for medical image classification of anatomy objects,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,22,PDF,Symmetry,Generating image captions using bahdanau attention mechanism and transfer learning,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,7,PDF,Sustainability,"Estimation of the extent of the vulnerability of agriculture to climate change using analytical and deep-learning methods: A case study in Jammu, Kashmir, and Ladakh",ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,5,PDF,Sustainability,"Smart farming revolution: Farmer's perception and adoption of smart iot technologies for crop health monitoring and yield prediction in jizan, Saudi Arabia",ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,31,PDF,Â on Perceptive and Â,Prediction of mental health among university students,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,26,PDF,International Journal of Â,Disaster recovery in cloud computing systems: An overview,PDF,2020.0,,,,Manegement Information Systems,
-Y Gulzar,4,PDF,Information,Healthcare Trust Evolution with Explainable Artificial Intelligence: Bibliometric Analysis,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,4,PDF,Sustainability,Sustainability consciousness research trends: A bibliometric analysis,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,4,,Physical Â,Data rate aware reliable transmission mechanism in wireless sensor networks using Bayesian regularized neural network approach,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,9,PDF,Int J Adv Comput Â,Enhanced transfer learning strategies for effective kidney tumor classification with CT imaging,PDF,2023.0,,,,Manegement Information Systems,
-Y Gulzar,14,PDF,Â on Perceptive and Â,A real time deep learning based driver monitoring system,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,2,PDF,Frontiers in Applied Â,Deep learning models/techniques for COVID-19 detection: a survey,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,1,PDF,Â in Sustainable Cities,Revolutionizing mobility: a comprehensive review of electric vehicles charging stations in India,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,18,PDF,IEEE Access,Optimizing skyline query processing in incomplete data,ARTICLE,2019.0,,,,Manegement Information Systems,
-Y Gulzar,21,,Applied Intelligence,SCSA: Evaluating skyline queries in incomplete data,ARTICLE,2019.0,,,,Manegement Information Systems,
-Y Gulzar,1,PDF,Frontiers in Applied Mathematics and Statistics,Enhanced corn seed disease classification: leveraging MobileNetV2 with feature augmentation and transfer learning,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,15,PDF,The Journal of Â,Understanding the complexities of prevalence of trans fat and its control in food supply in Pakistan,ARTICLE,2020.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,Â Journal of Advanced Â,Using ensemble learning and advanced data mining techniques to improve the diagnosis of chronic kidney disease,PDF,2023.0,,,,Manegement Information Systems,
-Y Gulzar,19,PDF,J. Comput. Sci.,"Processing Skyline Queries in Incomplete Database: Issues, Challenges and Future Trends.",PDF,2017.0,,,,Manegement Information Systems,
-Y Gulzar,11,PDF,IEEE Â,Efficient computation of skyline queries over a dynamic and incomplete database,ARTICLE,2020.0,,,,Manegement Information Systems,
-Y Gulzar,1,PDF,Sensors,A Review and Comparative Analysis of Relevant Approaches of Zero Trust Network Model,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,20,PDF,Procedia Computer Â,A framework for evaluating skyline queries over incomplete data,ARTICLE,2016.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,Frontiers in Applied Â,Least Square-Support Vector Machine Based Brain Tumor Classification System with Multi Model Texture Features,PDF,2023.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,IEEE Access,Genetic-Based Virtual Machines Consolidation Strategy With Efficient Energy Consumption in Cloud Environment,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,6,PDF,IEEE Â,IDSA: An efficient algorithm for skyline queries computation on dynamic and incomplete data with changing states,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,5,PDF,Indonesian Journal of Â,An investigation study for risk calculation of security vulnerabilities on android applications,PDF,2022.0,,,,Manegement Information Systems,
-Y Gulzar,2,PDF,Applied Sciences,Abdomen fat and liver segmentation of CT scan images for determining obesity and fatty liver correlation,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,13,PDF,Journal of Â,MRI-based effective ensemble frameworks for predicting human brain tumor,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,14,PDF,Â on Computing & Â,Skyline query processing for incomplete data in cloud environment,PDF,2017.0,,,,Manegement Information Systems,
-Y Gulzar,2,PDF,Biomimetics,Using the Grey Wolf Aquila Synergistic Algorithm for Design Problems in Structural Engineering,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,Biomimetics,Dynamic Random Walk and Dynamic Opposition Learning for Improving Aquila Optimizer: Solving Constrained Engineering Design Problems,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,11,PDF,Indonesian Journal of Â,A model for processing skyline queries in crowd-sourced databases,PDF,2018.0,,,,Manegement Information Systems,
-Y Gulzar,8,PDF,Proceedings of the 20th Â,D-SKY: A framework for processing skyline queries in a dynamic and incomplete database,ARTICLE,2018.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,Â Materials & Continua,Recent Developments in Authentication Schemes Used in Machine-Type Communication Devices in Machine-to-Machine Communication: Issues andÂ Â,PDF,2024.0,,,,Manegement Information Systems,
-Y Gulzar,6,PDF,IEEE Â,Skyline queries computation on crowdsourced-enabled incomplete database,ARTICLE,2020.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,Modeling Earth Systems Â,Advancing automatic plant classification system in Saudi Arabia: introducing a novel dataset and ensemble deep learning approach,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,arXiv preprint arXiv Â,Gender-wise perception of students towards blended learning in higher education: Pakistan,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,0,HTML,MethodsX,An evaluation of intelligent and immersive digital applications in eliciting cognitive states in humans through the utilization of Emotiv Insight,HTML,2024.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,Â on Perceptive and Â,Examining factors for anxiety and depression prediction,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,International Journal of Â,Multi-Route Plan for Reliable Services in Fog-Based Healthcare Monitoring Systems,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,8,PDF,Advanced Science Â,A model for skyline query processing in a partially complete database,ARTICLE,2018.0,,,,Manegement Information Systems,
-Y Gulzar,5,PDF,Procedia Computer Â,A model for computing skyline data items in cloud incomplete databases,ARTICLE,2020.0,,,,Manegement Information Systems,
-Y Gulzar,6,PDF,Journal of Information Â,Identifying skylines in cloud databases with incomplete data,ARTICLE,2019.0,,,,Manegement Information Systems,
-Y Gulzar,0,,Â on Computing for Â,Building Trust: IoT Security and Blockchain Integration,ARTICLE,2024.0,,,,Manegement Information Systems,
-Y Gulzar,2,PDF,Sci. J. King Faisal Univ Â,Efficient and Cost-effective Service Broker Policy Based on User Priority in VIKOR for Cloud Computing,PDF,2021.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,Emirates Journal of Food and Agriculture,Enhancing soybean classification with modified inception model: A transfer learning approach,PDF,2024.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,,"Estimation of the Extent and Vulnerability of Climate Change on Agriculture using Analytical and Deep-learning Methods: A case study in Jammu, Kashmir andÂ Â",PDF,2023.0,,,,Manegement Information Systems,
-Y Gulzar,3,PDF,Malaysian Journal Â,Semantic graph knowledge representation for Al-Quran verses based on word dependencies,ARTICLE,2021.0,,,,Manegement Information Systems,
-Y Gulzar,0,,International Journal of Â,Enhancing Autism Severity Classification: Integrating LSTM into CNNs for Multisite Meltdown Grading.,ARTICLE,2023.0,,,,Manegement Information Systems,
-Y Gulzar,2,PDF,arXiv preprint arXiv Â,An overview of query processing on crowdsourced databases,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,IEEE Access,CIDS: An Efficient Algorithm for Processing Skyline Queries for Partially Complete Data in Cloud Environment,ARTICLE,2022.0,,,,Manegement Information Systems,
-Y Gulzar,0,PDF,Emirates Journal of Â,Saffron corm sorting and rot treatment strategy for productivity enhancement for precision agriculture,PDF,2024.0,,,,Manegement Information Systems,
-Y Gulzar,1,PDF,BIO Web of Â,Adaptability of deep learning: datasets and strategies in fruit classification,ARTICLE,2024.0,,,,Manegement Information Systems,
-A Mehmood,1479,,Nano Energy,Recent advancements in supercapacitor technology,ARTICLE,2018.0,10.0,11.0,345.0,Manegement Information Systems,
-A Mehmood,183,HTML,Journal of Nanomaterials,"Uptake, translocation, and consequences of nanomaterials on plant growth and stress adaptation",HTML,2021.0,,,,Manegement Information Systems,
-A Mehmood,285,PDF,Nature Catalysis,High loading of single atomic iron sites in FeÂNC oxygen reduction catalysts for proton exchange membrane fuel cells,ARTICLE,2022.0,,,,Manegement Information Systems,
-A Mehmood,585,PDF,IEEE Â,COVID-19 future forecasting using supervised machine learning models,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,568,,Planning Practice & Research,Evolutionary resilience and strategies for climate adaptation,ARTICLE,2013.0,,,,Manegement Information Systems,
-A Mehmood,237,PDF,Energy & Â,Establishing reactivity descriptors for platinum group metal (PGM)-free FeÂNÂC catalysts for PEM fuel cells,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,152,,Â on Geoscience and Â,Local similarity-based spatialÂspectral fusion hyperspectral image classification with deep CNN and Gabor filtering,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,287,PDF,Journal of Sound and Â,Piezoelectric energy harvesting from vortex-induced vibrations of circular cylinder,ARTICLE,2013.0,,,,Manegement Information Systems,
-A Mehmood,430,,,Planning for climate change: strategies for mitigation and adaptation for spatial planners,BOOK,2009.0,,,,Manegement Information Systems,
-A Mehmood,262,PDF,IEEE Â,Fake news stance detection using deep learning architecture (CNN-LSTM),ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,129,HTML,Complexity,An efficient CNN model for COVID-19 disease detection based on X-ray image classification,HTML,2021.0,,,,Manegement Information Systems,
-A Mehmood,194,,Materials Science and Â,Green synthesis of silver nanoparticles and their applications as an alternative antibacterial and antioxidant agents,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,154,PDF,Arabian Journal for Â,Prediction of heart disease using deep convolutional neural networks,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,269,PDF,European planning studies,Of resilient places: planning for urban resilience,ARTICLE,2016.0,,,,Manegement Information Systems,
-A Mehmood,339,PDF,IEEE Â,Protection of big data privacy,ARTICLE,2016.0,,,,Manegement Information Systems,
-A Mehmood,310,PDF,Local Environment,Social innovation and the governance of sustainable places,ARTICLE,2015.0,,,,Manegement Information Systems,
-A Mehmood,200,PDF,C,An overview of the recent progress in the synthesis and applications of carbon nanotubes,ARTICLE,2019.0,,,,Manegement Information Systems,
-A Mehmood,143,PDF,IEEE Â,Impact of SMOTE on imbalanced text features for toxic comments classification using RVVC model,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,165,PDF,Brain sciences,State-of-the-art CNN optimizer for brain tumor segmentation in magnetic resonance images,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,223,,Proceedings of the Â,The role of high-altitude platforms (HAPs) in the global wireless connectivity,ARTICLE,2011.0,,,,Manegement Information Systems,
-A Mehmood,227,,Materials Letters,Green synthesis of silver nanoparticles using leaves extract of Skimmia laureola: characterization and antibacterial activity,ARTICLE,2015.0,,,,Manegement Information Systems,
-A Mehmood,331,PDF,Plos one,A performance comparison of supervised machine learning models for Covid-19 tweets sentiment analysis,ARTICLE,2021.0,,,,Manegement Information Systems,
-A Mehmood,150,,Cell Biology Â,"Bone marrow derived mesenchymal stem cells from aged mice have reduced wound healing, angiogenesis, proliferation and anti-apoptosis capabilities",ARTICLE,2012.0,,,,Manegement Information Systems,
-A Mehmood,151,PDF,Briefings in Â,Systematic evaluation of differential splicing tools for RNA-seq studies,ARTICLE,2020.0,,,,Manegement Information Systems,
-A Mehmood,174,,Animal Reproduction Â,Duck egg yolk in extender improves the freezability of buffalo bull spermatozoa,ARTICLE,2008.0,,,,Manegement Information Systems,
-IA Elshaer,39,PDF,International Journal of Â,E-learning success model in the context of COVID-19 pandemic in higher educational institutions,ARTICLE,2022.0,23.0,60.0,2168.0,Manegement,
-IA Elshaer,15,PDF,Journal of Retailing and Â,Social commerce and buying intention post COVID-19: Evidence from a hybrid approach based on SEMÂfsQCA,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,48,PDF,Sustainability,Influences of university education support on entrepreneurship orientation and entrepreneurship intention: application of theory of planned behavior,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,115,PDF,Sustainability,The effect of green human resource management on environmental performance in small tourism enterprises: Mediating role of pro-environmental behaviors,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,25,HTML,Journal of Open Innovation Â,Examining the influence of trust and perceived risk on customers intention to use NFC mobile payment system,HTML,2023.0,,,,Manegement,
-IA Elshaer,48,PDF,Sustainability,Higher education in and after COVID-19: The impact of using social network applications for e-learning on students' academic performance,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,37,PDF,International Journal of Environmental Â,Green management and sustainable performance of small-and medium-sized hospitality businesses: moderating the role of an employee's pro-environmentalÂ Â,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,45,PDF,Mathematics,Personal traits and digital entrepreneurship: A mediation model using SmartPLS data analysis,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,46,PDF,International journal of Â,Perception of occupational and environmental risks and hazards among mineworkers: A psychometric paradigm approach,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,106,PDF,International Journal of Quality & Reliability Â,Direct effects of quality management on competitive advantage,ARTICLE,2016.0,,,,Manegement,
-IA Elshaer,40,PDF,Â Journal of Environmental Research and Public Â,"Amid the covid-19 pandemic, unethical behavior in the name of the company: The role of job insecurity, job embeddedness, and turnover intention",ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,38,PDF,International Journal of Â,The impact of job insecurity and distributive injustice post COVID-19 on social loafing behavior among hotel workers: Mediating role of turnover intention,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,14,PDF,Administrative Sciences,Green human resource management and brand citizenship behavior in the hotel industry: Mediation of organizational pride and individual green values as aÂ Â,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,29,PDF,Sustainability,E-learning experience in higher education amid covid-19: Does gender really matter in a gender-segregated culture?,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,14,PDF,Administrative Â,Enhancing innovation performance in the hotel industry: the role of employee empowerment and quality management practices,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,52,,Tourism Management Perspectives,Justice and trust's role in employees' resilience and business' continuity: Evidence from Egypt,ARTICLE,2020.0,,,,Manegement,
-IA Elshaer,30,,Tourism Review,Entrepreneurial resilience and business continuity in the tourism and hospitality industry: The role of adaptive performance and institutional orientation,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,11,HTML,Frontiers in Â,Unleashing environmental performance: The impact of green entrepreneurial motivation on small enterprises,HTML,2023.0,,,,Manegement,
-IA Elshaer,11,PDF,European Journal of Â,Environmentally specific servant leadership and brand citizenship behavior: the role of green-crafting behavior and employee-perceived meaningful work,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,15,PDF,Sustainability,Born to be green: antecedents of green entrepreneurship intentions among higher education students,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,25,PDF,Mathematics,"Risk-taking, financial knowledge, and risky investment intention: expanding theory of planned behavior using a moderating-mediating model",ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,15,PDF,Sustainability,Born not made: the impact of six entrepreneurial personality dimensions on entrepreneurial intention: evidence from healthcare higher education students,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,22,PDF,Mathematics,Measuring the Mediating Roles of E-Trust and E-Satisfaction in the Relationship between E-Service Quality and E-Loyalty: A Structural Modeling Approach,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,7,PDF,Sustainability,Improving social performance through innovative small green businesses: Knowledge sharing and green entrepreneurial intention as antecedents,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,15,PDF,International Journal of Â,Environmental transformational leadership and green innovation in the hotel industry: two moderated mediation analyses,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,16,PDF,Mathematics,Green human resources and innovative performance in small-and medium-sized tourism enterprises: a mediation model using PLS-SEM data analysis,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,19,PDF,International Journal of Environmental Â,"Authenticity, involvement, and nostalgia in heritage hotels in the era of digital technology: A moderated meditation model",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,56,PDF,Instability and Tourism,Political instability and tourism in Egypt: Exploring survivors' attitudes after downsizing,ARTICLE,2020.0,,,,Manegement,
-IA Elshaer,14,PDF,Sustainability,"Learning from failure: Building resilience in small-and medium-sized tourism enterprises, the role of servant leadership and transparent communication",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,7,PDF,European Journal of Investigation in Health Â,Mental health of tourism employees post COVID-19 pandemic: A test of antecedents and moderators,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,15,PDF,International Journal of Environmental Â,Underdog environmental expectations and environmental organizational citizenship behavior in the hotel industry: Mediation of desire to prove others wrong andÂ Â,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,17,PDF,International Journal of Â,"Before and Amid COVID-19 Pandemic, Self-Perception of Digital Skills in Saudi Arabia Higher Education: A Longitudinal Study",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,6,PDF,International Journal of Â,The impact of social loafing on turnover intention for tourism employees post COVID-19: The mediating role of mental health,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,9,PDF,International Journal of Â,Examining learning experience and satisfaction of accounting students in higher education before and amid COVID-19,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,14,PDF,International Journal of Environmental Â,Positive humor and work withdrawal behaviors: the role of stress coping styles in the hotel industry amid COVID-19 pandemic,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,8,PDF,Agriculture,Who Is Going Green? Determinants of Green Investment Intention in the Saudi Food Industry,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,14,PDF,Mathematics,Determinants of investment awareness: A moderating structural equation modeling-based model in the Saudi Arabian Context,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,5,HTML,Journal of Open Â,The impact of work-related ICT use on perceived injustice: exploring the effects of work role overload and psychological detachment,HTML,2024.0,,,,Manegement,
-IA Elshaer,47,PDF,The Service Industries Â,Competing models of quality management and financial performance improvement,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,5,PDF,Heliyon,Front-line hotel employees mental health and quality of life post COVID-19 pandemic: The role of coping strategies,PDF,2023.0,,,,Manegement,
-IA Elshaer,14,PDF,Horticulturae,Sustainable Horticulture Practices to Predict Consumer Attitudes towards Green Hotel Visit Intention: Moderating the Role of an Environmental Gardening Identity,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,10,PDF,International Journal of Â,Adopting an extended theory of planned behaviour to examine buying intention and behaviour of nutrition-labelled menu for healthy food choices in quick serviceÂ Â,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,5,PDF,Administrative Â,"Examining the relationship between green mindfulness, spiritual intelligence, and environmental self identity: unveiling the path to green entrepreneurial intention",ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,47,,Journal of Hospitality Marketing & Â,Organizational politics and validity of layoff decisions: Mediating role of distributive justice of performance appraisal,ARTICLE,2017.0,,,,Manegement,
-IA Elshaer,14,PDF,International Journal of Â,Influences of distributive injustice and job insecurity amid COVID-19 on unethical pro-organisational behaviour: Mediating role of employee turnover intention,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,17,PDF,Â Journal of Environmental Research and Public Â,FLOWER: An approach for enhancing e-learning experience amid COVID-19,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,12,PDF,Agriculture,Agritourism and peer-to-peer accommodation: A moderated mediation model,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,21,PDF,Agriculture,"I think I can, I think I can: Effects of entrepreneurship orientation on entrepreneurship intention of Saudi agriculture and food sciences graduates",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,12,PDF,Mathematics,Structural equation modeling-based multi-group analysis: examining the role of gender in the link between entrepreneurship orientation and entrepreneurial intention,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,4,PDF,Sustainability,Farm-to-Fork and Sustainable Agriculture Practices: Perceived Economic Benefit as a Moderator and Environmental Sustainability as a Mediator,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,9,PDF,Sustainability,University Incubator support and entrepreneurial intention among tourism graduates: Mediating role of personal attitude,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,13,PDF,Mathematics,"Amid COVID-19 pandemic, entrepreneurial resilience and creative performance with the mediating role of institutional orientation: a quantitative investigation usingÂ Â",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,4,PDF,Sustainability,A Novel Framework of Public Risk Assessment Using an Integrated Approach Based on AHP and Psychometric Paradigm,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,10,PDF,Mathematics,Antecedents of risky financial investment intention among higher education students: A mediating moderating model using structural equation modeling,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,9,PDF,Mathematics,Post-COVID-19 family micro-business resources and agritourism performance: a two-mediated moderated quantitative-based model with a PLS-SEM data analysisÂ Â,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,13,PDF,International Journal of Â,Perceived risk of job instability and unethical organizational behaviour amid the COVID-19 pandemic: The role of family financial pressure and distributive injustice inÂ Â,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,17,PDF,Sustainability,Influence of cities-based entertainment on tourist satisfaction: Mediating roles of destination image and experience quality,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,10,PDF,Sustainability,"Amid the COVID-19 pandemic, social media usage and food waste intention: the role of excessive buying behavior and religiosity",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,3,PDF,Sustainability,"Enhancing green electronic word-of-mouth in the Saudi tourism industry: an integration of the ability, motivation, and opportunity and planned behaviour theories",ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,10,PDF,Energies,Social disconnectedness and career advancement impact on performance: The role of employees' satisfaction in the energy sector,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,10,PDF,Sustainability,Adaptive reuse of heritage houses and hotel conative loyalty: digital technology as a moderator and memorable tourism and hospitality experience as a mediator,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,7,PDF,Agriculture,The Impact of Gender on the Link between Personality Traits and Entrepreneurial Intention: Implications for Sustainable Agriculture,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,9,PDF,International Journal of Environmental Â,Unethical organization behavior: Antecedents and consequences in the tourism industry,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,8,PDF,Mathematics,Dimensionality Analysis of Entrepreneurial Resilience amid the COVID-19 Pandemic: Comparative Models with Confirmatory Factor Analysis and Structural EquationÂ Â,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,7,PDF,Electronics,Educators' utilizing one-stop mobile learning approach amid global health emergencies: Do technology acceptance determinants matter?,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,2,PDF,Sustainability,Greenwashing Behavior in Hotels Industry: The Role of Green Transparency and Green Authenticity,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,8,PDF,International Journal of Â,"An unethical organizational behavior for the sake of the family: perceived risk of job insecurity, family motivation and financial pressures",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,10,PDF,Journal of Risk and Financial Â,The impact of women's empowerment on their entrepreneurship intention in the Saudi food industry,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,7,PDF,Â journal of environmental research and public Â,Physical Activities and Learning Experience of Higher Education Students: Mediating Role of Quality of Life and Physical Self-Esteem,ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,10,PDF,Sustainability,Developing a measurement scale of opposition in tourism public-private partnerships projects,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,3,PDF,Â Journal of Environmental Research and Public Â,"Before and during the COVID-19 pandemic, physical fitness association with mental health among higher education students: A multi-group analysis model",ARTICLE,2022.0,,,,Manegement,
-IA Elshaer,20,PDF,Total Quality Management & Business Â,Testing the dimensionality of the quality management construct,ARTICLE,2016.0,,,,Manegement,
-IA Elshaer,8,,Journal of Destination Marketing & Â,Relational risk and public-private partnership performance: An institutional perspective,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,6,,International Journal of Â,THE IMPACT OF SPIRITUAL LEADERSHIP ON EMPLOYEES'SATISFACTION: MEDIATING ROLE OF EMPLOYEES'COMMITMENT,ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,11,HTML,Journal of Open Â,Can cognitive capital sustain customer satisfaction? The mediating effects of employee self-efficacy,HTML,2020.0,,,,Manegement,
-IA Elshaer,2,PDF,International Journal of Â,Internal green marketing orientation and business performance: The role of employee environmental commitment and green organizational identity,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,2,PDF,Sustainability,Come and Gone! Psychological Resilience and Organizational Resilience in Tourism Industry Post COVID-19 Pandemic: The Role of Life Satisfaction,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,0,PDF,Sustainability,"Understanding the Nexus between Social Commerce, Green Customer Citizenship, Eco-Friendly Behavior and Staying in Green Hotels",ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,0,PDF,European Journal of Â,Examining Students' Acceptance and Use of ChatGPT in Saudi Arabian Higher Education,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,0,PDF,Cogent Business & Â,Green human resource management practices and environmental performance: the mediating role of job satisfaction and pro-environmental behavior,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,0,PDF,Heritage,Heritage Tourism Resilience and Sustainable Performance Post COVID-19: Evidence from Hotels Sector,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,2,PDF,Cogent Psychology,Social-psychological risk perception impacts on job insecurity and turnover intention: a mediation model using PLS-SEM technique,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,0,PDF,Heritage,Residents' Environmentally Responsible Behavior and Tourists' Sustainable Use of Cultural Heritage: Mediation of Destination Identification and Self-Congruity as aÂ Â,ARTICLE,2024.0,,,,Manegement,
-IA Elshaer,4,,International Journal of Â,"Examining the relationship among counterfeit product, consumer buying behavior, and sustainable tourism development",ARTICLE,2021.0,,,,Manegement,
-IA Elshaer,6,,,The relationship between quality management and competitive advantage: an empirical study of the Egyptian hotel industry,CITATION,2012.0,,,,Manegement,
-IA Elshaer,0,PDF,Journal of Law and Sustainable Development,Investment in The Sports Industry In Saudi Arabia and Its Impact on the Quality of Life of Football Fans,ARTICLE,2023.0,,,,Manegement,
-IA Elshaer,0,PDF,Mathematics,Modeling Negotiating Abilities in the Construction Sector: A Proposed Mathematical Model Using the Confirmatory Factor Analysis Method,ARTICLE,2023.0,,,,Manegement,
-ASB Samma,58,PDF,"World Academy of Science, Engineering and Â",Adaptation of k-means algorithm for image segmentation,PDF,2009.0,5.0,4.0,126.0,Manegement Information Systems,
-ASB Samma,11,,2010 Seventh International Â,Combining boundary and skeleton information for convex and concave points detection,ARTICLE,2010.0,,,,Manegement Information Systems,
-ASB Samma,3,PDF,International Journal of Computer and Â,Enhancement of shape description and representation by slope,PDF,2009.0,,,,Manegement Information Systems,
-ASB Samma,0,,Â International Conference on Â,Enhancement of background subtraction approach for image segmentation,ARTICLE,2010.0,,,,Manegement Information Systems,
-K Chebbi,79,PDF,The Quarterly Review of Economics and Â,The COVID-19 pandemic and stock liquidity: Evidence from S&P 500,ARTICLE,2021.0,9.0,9.0,306.0,Finance,
-K Chebbi,9,,International Review of Financial Analysis,How does the COVID-19 pandemic shape the relationship between Twitter sentiment and stock liquidity of US firms?,ARTICLE,2023.0,,,,Finance,
-K Chebbi,47,,Available at SSRN 3612141,The impact of COVID-19 on exchange rate volatility: Evidence through GARCH model,ARTICLE,2020.0,,,,Finance,
-K Chebbi,5,PDF,Sustainability,Exploring the interplay between sustainability and debt costs in an emerging market: does financial distress matter?,ARTICLE,2023.0,,,,Finance,
-K Chebbi,31,PDF,Sustainability,Board composition and ESG disclosure in Saudi Arabia: The moderating role of corporate governance reforms,ARTICLE,2022.0,,,,Finance,
-K Chebbi,10,PDF,Sustainability,"Unveiling the connection among ESG, earnings management, and financial distress: Insights from an emerging market",ARTICLE,2023.0,,,,Finance,
-K Chebbi,35,PDF,International Journal of Financial Â,The impact of environmental sustainability disclosure on stock return of Saudi listed firms: The moderating role of financial constraints,ARTICLE,2021.0,,,,Finance,
-K Chebbi,2,PDF,Gestion 2000,ReprÃ©sentation des femmes au conseil d'administration et performance sociÃ©tale de l'entreprise: existe-t-il un lien?,ARTICLE,2018.0,,,,Finance,
-K Chebbi,23,PDF,International Journal of Innovation Â,Women on the board and environmental sustainability reporting: Evidence from France,PDF,2020.0,,,,Finance,
-K Chebbi,23,PDF,The Quarterly Review of Economics and Â,Top management inside debt and corporate social responsibility? Evidence from the US,ARTICLE,2020.0,,,,Finance,
-K Chebbi,7,HTML,Research in International Â,The ripple effects of CBDC-related news on Bitcoin returns: Insights from the DCC-GARCH model,HTML,2023.0,,,,Finance,
-K Chebbi,2,,Environmental Science and Â,Assessing the role of green supply chain management in enhancing Pakistan manufacturers' performances,ARTICLE,2023.0,,,,Finance,
-K Chebbi,11,,The Journal of Asian Finance Â,Does investor sentiment influence stock Price crash risk? Evidence from Saudi Arabia,ARTICLE,2022.0,,,,Finance,
-K Chebbi,1,PDF,Studies in Economics and Â,Feedback trading in the cryptocurrency market,ARTICLE,2024.0,,,,Finance,
-K Chebbi,16,,Journal of Applied Accounting Â,CEO inside debt and the value of excess cash,ARTICLE,2018.0,,,,Finance,
-K Chebbi,0,PDF,Financial Innovation,Do US states' responses to COVID-19 restore investor sentiment? Evidence from S&P 500 financial institutions,ARTICLE,2024.0,,,,Finance,
-K Chebbi,2,PDF,Sustainable Development,"Examining the interplay of sustainable development, corporate governance, and stock Price crash risk: Insights from ESG practices",ARTICLE,2024.0,,,,Finance,
-AG Benahmed?,202,HTML,Clinical ?,Interrelations between COVID-19 and other disorders,ARTICLE,2021.0,5.0,5.0,138.0,Economics,
-AG Benahmed?,125,HTML,Clinical ?,Micronutrients as immunomodulatory tools for COVID-19 management,ARTICLE,2020.0,,,,Economics,
-AG Benahmed,75,,Anaerobe,Association between the gut and oral microbiome with obesity,ARTICLE,2021.0,,,,Economics,
-AG Benahmed?,47,HTML,Clinical ?,The microbiota-mediated dietary and nutritional interventions for COVID-19,ARTICLE,2021.0,,,,Economics,
-AG Benahmed?,50,,Current medicinal ?,"Relationship between gut microbiota, gut hyperpermeability and obesity",ARTICLE,2021.0,,,,Economics,
-SE Sorour,45,PDF,IEEE Access,An efficient data mining technique for assessing satisfaction level with online learning for higher education students during the COVID-19,ARTICLE,2022.0,13.0,15.0,482.0,Manegement Information Systems,
-SE Sorour,59,PDF,Journal of Information Â,A predictive model to evaluate student performance,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,47,PDF,International Educational Data Mining Â,Predicting Student Grade Based on Free-Style Comments Using Word2Vec and ANN by Considering Prediction Results Obtained in Consecutive Lessons.,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,41,PDF,Journal of Educational Technology & Society,Comment data mining to estimate student performance considering consecutive lessons,ARTICLE,2017.0,,,,Manegement Information Systems,
-SE Sorour,4,HTML,Journal of King Saud Â,Classification of Alzheimer's disease using MRI data based on Deep Learning Techniques,HTML,2024.0,,,,Manegement Information Systems,
-SE Sorour,14,,Â Journal of Innovation Â,Study on the influencing factors of the flexibility of university IT management in Education 4.0,ARTICLE,2021.0,,,,Manegement Information Systems,
-SE Sorour,8,PDF,J. Theor. Appl. Inf. Technol,AFND: Arabic fake news detection with an ensemble deep CNN-LSTM model,PDF,2022.0,,,,Manegement Information Systems,
-SE Sorour,15,PDF,"Computers, Materials, & Â",A hybrid virtual cloud learning model during the covid-19 pandemic,PDF,2021.0,,,,Manegement Information Systems,
-SE Sorour,34,PDF,2014 IEEE Frontiers in Â,Predicting students' grades based on free style comments data by artificial neural network,ARTICLE,2014.0,,,,Manegement Information Systems,
-SE Sorour,1,PDF,Plos one,Henry gas solubility optimization double machine learning classifier for neurosurgical patients,ARTICLE,2023.0,,,,Manegement Information Systems,
-SE Sorour,22,,2014 IIAI 3rd Â,Comments data mining for evaluating student's performance,ARTICLE,2014.0,,,,Manegement Information Systems,
-SE Sorour,18,,2016 5th IIAI International Congress on Â,Building an interpretable model of predicting student performance using comment data mining,ARTICLE,2016.0,,,,Manegement Information Systems,
-SE Sorour,18,PDF,Journal of information processing,Evaluation of effectiveness of time-series comments by using machine learning techniques,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,20,,2015 IIAI 4th International Â,Estimation of student performance by considering consecutive lessons,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,1,HTML,International Journal of Â,A Deep Learning System for Detecting Cardiomegaly Disease Based on CXR Image,HTML,2024.0,,,,Manegement Information Systems,
-SE Sorour,1,PDF,IEEE Â,An Automatic Dermatology Detection System Based on Deep Learning and Computer Vision,ARTICLE,2023.0,,,,Manegement Information Systems,
-SE Sorour,13,,2015 IEEE 15th Â,Correlation of grade prediction performance with characteristics of lesson subject,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,0,PDF,Education and Information Technologies,Classification-driven intelligent system for automated evaluation of higher education exam paper quality,ARTICLE,2024.0,,,,Manegement Information Systems,
-SE Sorour,13,PDF,Proceedings of the 6th Â,Efficiency of LSA and K-means in predicting students' Academic performance based on their comments data,ARTICLE,2014.0,,,,Manegement Information Systems,
-SE Sorour,3,HTML,Journal of King Saud Â,An analytical code quality methodology using latent dirichlet allocation and convolutional neural networks,HTML,2022.0,,,,Manegement Information Systems,
-SE Sorour,9,,"Â Conference, AIED 2015, Madrid, Spain, June Â",Student performance estimation based on topic models considering a range of lessons,ARTICLE,2015.0,,,,Manegement Information Systems,
-SE Sorour,8,PDF,Advances in Web-Based Â,Prediction of students' grades based on free-style comments data,ARTICLE,2014.0,,,,Manegement Information Systems,
-SE Sorour,7,,2016 IEEE Frontiers in Â,Teacher interventions to enhance the quality of student comments and their effect on prediction performance,ARTICLE,2016.0,,,,Manegement Information Systems,
-SE Sorour,6,,Advances in Web-Based Â,Understandable prediction models of student performance using an attribute dictionary,ARTICLE,2016.0,,,,Manegement Information Systems,
-SE Sorour,5,,Proceedings of the Australasian Computer Science Â,Exploring students' learning attributes in consecutive lessons to improve prediction performance,ARTICLE,2016.0,,,,Manegement Information Systems,
-SE Sorour,1,PDF,International Journal of Computer Â,A recommender system to distin-guish between students' levels and evaluate their attitudes,PDF,2017.0,,,,Manegement Information Systems,
-SE Sorour,0,PDF,,Computer and Information Sciences,PDF,2022.0,,,,Manegement Information Systems,
-SE Sorour,0,PDF,Computers in Education Journal,The Effect of An Automatic Feedback System on Students' Comments to Improve their Performance.,PDF,2020.0,,,,Manegement Information Systems,
-SE Sorour,0,HTML,coed.asee.org,ASEE's Computers in Education Journal,HTML,,,,,Manegement Information Systems,
-SE Sorour,0,,"Â ÃÃ¡Ã¤Ã¦ÃÃ­Ã Ã¦ ÃÃ¡ÃÂÃ¤Ã¦Ã¡Ã¦ÃÃ­Ã ÃÃÃ¦Ã ÃÃ¡Ã£Ã­Ã Ã¦ Â, 2019Ã½",,CITATION,,,,,Manegement Information Systems,
-SE Sorour,2,,LL/!! L LL! L!! L,Comments Data Mining for Evaluating Student's Performance.Â t LL,CITATION,2014.0,,,,Manegement Information Systems,
-NAA Abdelwahed,102,HTML,Asia Pacific Management Review,Predicting employee performance through transactional leadership and entrepreneur's passion among the employees of Pakistan,HTML,2023.0,11.0,12.0,497.0,Manegement,
-NAA Abdelwahed,39,PDF,Sustainability,"Organizational environmental culture, environmental sustainability and performance: the mediating role of green HRM and green innovation",ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,38,,Journal of Economic and Â,Intention to adopt cryptocurrency: a robust contribution of trust and the theory of planned behavior,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,22,PDF,Societies,Developing employee productivity and performance through work engagement and organizational factors in an educational society,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,18,PDF,Kybernetes,The role of digital technology and digital innovation towards firm performance in a digital economy,ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,7,PDF,Journal of Small Â,Green entrepreneurship in Saudi Arabia: shaping the landscape of the greener economy,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,54,PDF,International Journal of Â,The influence of demographic factors on the business success of entrepreneurs: An empirical study from the small and medium-sized enterprises context ofÂ Â,PDF,2019.0,,,,Manegement,
-NAA Abdelwahed,17,PDF,Education+ Training,Attitudes and intentions towards the adoption of mobile learning during COVID-19: building an exciting career through vocational education,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,5,PDF,Education+ Â,Leading towards the students' career development and career intentions through using multidimensional soft skills in the digital age,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,10,,South Asian Journal of Â,Developing the relationship between corporate cultural factors and employees' organizational commitment via self-efficacy,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,6,PDF,Sustainability,Developing female sustainable entrepreneurial intentions through an entrepreneurial mindset and motives,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,13,PDF,Sustainability,"Women, entrepreneurship, and sustainability: the case of Saudi Arabia",ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,46,PDF,International Journal of Â,IMPACT OF SOCIAL NETWORKING SITES'USE ON ENTREPRENEURIAL INTENTION AMONG UNDERGRADUATE BUSINESS STUDENTS: THE CASE OFÂ Â,PDF,2018.0,,,,Manegement,
-NAA Abdelwahed,8,PDF,International Journal of Â,Effect of institutional support and entrepreneurial knowledge on women's entrepreneurial self-efficacy and venture performance in a developing country,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,2,,International Journal of Â,Orientation and absorptive capacity towards sustainability: a missing link between sustainability and performance,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,2,PDF,Social Responsibility Â,"Developing environmental performance through sustainable practices, environmental CSR and behavioural intentions: an online approach during the COVID-19Â Â",ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,11,PDF,International Journal of Â,"Factors affecting online learning, stress and anxiety during the COVID-19 pandemic in Saudi Arabia",ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,9,PDF,Sustainability,Developing entrepreneurial sustainability among Saudi Arabia's university students,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,8,PDF,Sustainability,Environmental challenges and green innovation strategy: A vigorous development of greener dynamics,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,3,PDF,Risks,"The COVID-19 Crises: The threats, uncertainties and risks in entrepreneurial development",ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,9,PDF,Â of Environmental Quality Â,Climate change and pro-environmental behaviours: the significant environmental challenges of livelihoods,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,15,PDF,Heliyon,"Determining employee satisfaction, intrapreneurship and firm growth among managers of Pakistan",PDF,2022.0,,,,Manegement,
-NAA Abdelwahed,4,PDF,Journal of Science and Â,Entrepreneurship barriers faced by Pakistani female students in relation to their entrepreneurial inclinations and entrepreneurial success,ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,1,,International Journal of Â,The achievement of sustainable development and business success through rational management decision-making in a circular economy,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,International Journal of Â,Forecasting turnover intention: an analysis of psychological factors and perceived organizational support among healthcare professionals,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,8,PDF,Sustainability,"The role of environment, business and human behavior towards entrepreneurial sustainability",ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,2,PDF,Journal of Law and Â,Green Hrm Practices and Quality of Corporate Performance: the Avenues Towards Green Business,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,3,PDF,Journal of Law and Â,The predictive power of human resource practices in developing social entrepreneurship performance and sustainable business,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,International Journal of Â,"Unleashing potential: Islamic leadership's influence on employee performance via Islamic organizational values, organizational culture and work motivation",ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,4,PDF,Sustainability,The empowerment of Saudi Arabian women through a multidimensional approach: the mediating roles of self-efficacy and family support,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,2,PDF,Safety,Factors impacting occupational safety among women engineers,CITATION,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Kybernetes,The predictive robustness of organizational and technological enablers towards blockchain technology adoption and financial performance,ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,Journal of Law and Â,Entrepreneurial leadership and enterprise performance: A way out of sustainability,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,Sustainability,Examining the Impact of Marketing Motives and Concerns on User Satisfaction and Re-Purchase Intentions in a Sharing Economy,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,International Journal of Â,Digital technology and intentions to adopt digital e-health practices among health-care professionals,ARTICLE,2024.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,Journal of Law and Â,Examining the Role of Organizational Behavior and Leadership Styles Towards Employees' Performance in Petrochemical Companies in Saudi Arabia,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,Safety,The Impact of the Implementation of Safety Measures on Frontline Workers' Safety Accountability: A Saudi Arabian Case Study of a Well Intervention Business Model,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,2,PDF,The Journal of Modern Â,Female Talent Management Practices and Sustainable Firm Performance in Saudi Arabia: Building the Relationship Through Perceived Organizational Support,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,4,PDF,AgBioForum,Green intellectual capital and sustainability in manufacturing industries in Saudi Arabia,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,3,PDF,International Journal of Innovation Â,Determining the influence of socio-economic factors on entrepreneurship activities in Pakistan,PDF,2021.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,,"The COVID-19 Crises: The Threats, Uncertainties and Risks in Entrepreneurial Development. Risks, 11, 89",PDF,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,International Journal of Â,ENTREPRENEURS'PERCEPTIONS TOWARDS THE DYNAMIC ROLE OF ENTREPRENEURSHIP IN OVERCOMING POVERTY,PDF,2022.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Â,Role of Transformational Leadership and Social Entrepreneurship in Achieving Enterprise Performance: Taking Creativity as a Mediator,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Â,"Job Performance Prognosis: Evaluating Work Engagement, Workaholism, and Self-Efficacy",ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Â,Impact of Leadership Style on Employees' Motivation: The Contribution of Psychological Capital and Employees' Engagement,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable Â,Nurturing the Entrepreneurial Path: Unraveling the Interplay Between Entrepreneurial Mindset and Intention Through the Lens of Entrepreneurial Culture,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable Â,"Identifying Factors Influencing Employee Turnover Rate (A Case Study in Private Schools and Institutions, Alahsa)",ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,HTML,OBM Neurobiology,Resilience in Adversity: COVID-19 Pandemic Challenges in Diminishing Entrepreneurial Intentions and Business Startups,HTML,2024.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,Journal of Law and Â,Be A Teacher And Shut Up: When The Violation of The Psychological Contract Stands as A Perfect Mediator in the Relationship Between Sexual Harassment andÂ Â,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,HTML,OBM Neurobiology,"Anxiety, Stress and Depression as the Notorious Barriers to Achieving a Massive Performance among Egyptian Construction Site Workers",HTML,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,OBM Neurobiology,COVID-19 Milieu and Its Psychological Effects on the Environmental Performance,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable Â,The Robustness of Social Capital in The Wildlife Tourism Micro Entrepreneurship Arena,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Sustainable Â,Strategic Behaviours In Municipal Decision-Making: A Strategic Approach,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,1,HTML,OBM Neurobiology,"The Impact of Psychological Stress on Personal Income, Physical Health and Entrepreneurial Intentions among Entrepreneurs",HTML,2024.0,,,,Manegement,
-NAA Abdelwahed,1,HTML,OBM Genetics,Examining the Relationship between Attitudes Towards Genomic Technology and Genetic Entrepreneurial Intention among Egyptian HealthcareÂ Â,HTML,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,,GREEN HUMAN RESOURCE MANAGEMENT AND ENVIRONMENTAL PERFORMANCE AMONG HOTELS,PDF,2024.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,,ENHANCING ORGANIZATIONAL BEHAVIOUR THROUGH CORPORATE GOVERNANCE: THE CRUCIAL ROLE OF ORGANIZATIONAL CULTURE ANDÂ Â,PDF,2024.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Journal of Law and Â,Understanding the Intention to Purchase and Not to Purchase Organic Food among Students: Structural Equation Modeling,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,2,,Â Journal of Medicine,The effect of diet carbonated drinks and monosodium glutamate on the cerebellar cortex and the kidney of adult male albino rats. Histological and immunoÂ Â,ARTICLE,2020.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,,BUSINESS STRATEGY AND FIRM PERFORMANCE IN SMES: RECOGNIZING THE ROLE OF THE ENVIRONMENTAL MANAGEMENT PROCESS,PDF,2023.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,International Journal of Innovation Â,The Impact of Transformational Leadership Style on Organisational Commitment: Imam Abdulrahman Bin Faisal University as a Case Study,PDF,2021.0,,,,Manegement,
-NAA Abdelwahed,1,PDF,International Journal of Innovation Â,Preferred learning styles of management students of Pakistan,PDF,2021.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,Revista de Psicolog?a Â,Determining entrepreneurs' characteristics towards psychological empowerment in Saudi Arabia,ARTICLE,2022.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,RES MILITARIS,Effects Of COVID-19 Complexities On Sustainable Firms' Business Strategy In Manufacturing Industries In Saudi Arabia,ARTICLE,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,,"Developing Female Sustainable Entrepreneurial Intentions through an Entrepreneurial Mindset and Motives. Sustainability 2023, 15, 6210",PDF,2023.0,,,,Manegement,
-NAA Abdelwahed,0,PDF,,"The Role of Environment, Business and Human Behavior towards Entrepreneurial Sustainability. Sustainability 2022, 14, 2517",PDF,2022.0,,,,Manegement,
-NAA Abdelwahed,3,,,"The Role of Environment, Business and Human Behavior towards Entrepreneurial Sustainability. Sustainability, 14 (5), 2517",CITATION,2022.0,,,,Manegement,
-NAA Abdelwahed,3,,Int. J. Innov. Creat. Change,Determining consumers' attitude towards the purchase of counterfeit fashion products in Pakistan,CITATION,2021.0,,,,Manegement,
-AA Al Naim,608,,,"AAPG Memoir 74, Chapter 24: Paleozoic stratigraphy and hydrocarbon habitat of the Arabian plate",ARTICLE,2001.0,,,,Manegement,
-A Al Naim,66,HTML,Journal of radiation Â,Effect of gamma irradiation on the mechanical properties of PVC/ZnO polymer nanocomposite,HTML,2017.0,,,,Manegement,
-AA Al Naim,11,HTML,World Journal of Â,First aid for burns and burn-related nutrition among 2437 inhabitants: a nationwide survey in Saudi Arabia,HTML,2022.0,,,,Manegement,
-A Al Naim,34,,Applied Physics Letters,Electron transporting water-gated thin film transistors,ARTICLE,2012.0,,,,Manegement,
-A Al Naim,3,PDF,Pediatric surgery Â,Management of pediatric blunt abdominal trauma with split liver or spleen injuries: a retrospective study,ARTICLE,2023.0,,,,Manegement,
-A Al Naim,8,PDF,Cureus,Physician satisfaction with virtual ophthalmology clinics during the COVID-19 pandemic: a tertiary eye care Center experience,PDF,2022.0,,,,Manegement,
-AA Al Naim,17,PDF,AAPG Â,Paleozoic stratigraphy and hydrocarbon habitat of the Arabian plate,ARTICLE,1999.0,,,,Manegement,
